@@ -1,0 +1,2546 @@
+Rent_price,Bedrooms,Square_meters,Garage,Bathrooms,City,Neighborhood
+1.700,3,250,3,2,Uberlândia,Santa Rosa
+1.600,3,150,0,2,Uberlândia,Mansour
+2.000,2,120,1,3,Uberlândia,Jardim Inconfidência
+4.200,4,240,2,4,Uberlândia,Segismundo Pereira
+4.000,3,200,5,4,Uberlândia,Santa Mônica
+3.800,3,274,5,2,Uberlândia,Segismundo Pereira
+3.200,3,164,2,2,Uberlândia,Jardim Patrícia
+4.500,5,300,2,5,Uberlândia,Vigilato Pereira
+9.500,4,215,2,2,Uberlândia,Jardim Inconfidência
+2.800,3,200,2,3,Uberlândia,Centro
+10.000,3,300,2,1,Uberlândia,Aclimação
+28.000,4,800,5,5,Uberlândia,Morada da Colina
+1.400,3,80,2,1,Uberlândia,Minas Gerais
+3.000,3,10,2,1,Uberlândia,Novo Mundo
+6.000,4,370,2,4,Uberlândia,Custódio Pereira
+1.800,1,40,1,1,Uberlândia,Morada da Colina
+1.500,3,240,2,3,Uberlândia,Lídice
+3.200,3,184,2,3,Uberlândia,Cidade Jardim
+2.200,3,156,2,2,Uberlândia,Santa Mônica
+2.500,3,200,2,2,Uberlândia,Martins
+2.500,3,143,0,1,Uberlândia,Vigilato Pereira
+10.000,4,270,4,5,Uberlândia,Jardim das Palmeiras
+1.800,2,75,1,1,Uberlândia,Mansões Aeroporto
+1.700,2,60,1,1,Uberlândia,Mansões Aeroporto
+9.500,3,198,2,5,Uberlândia,Jardim Botânico
+2.500,3,150,4,3,Uberlândia,São Jorge
+2.950,3,70,1,2,Uberlândia,Martins
+1.800,3,70,2,2,Uberlândia,Jardim Brasília
+2.800,3,116,2,2,Uberlândia,Santa Mônica
+1.650,3,100,1,1,Uberlândia,Cidade Jardim
+3.500,4,193,2,1,Uberlândia,Nossa Senhora Aparecida
+850,2,49,0,1,Uberlândia,Daniel Fonseca
+3.800,3,336,5,3,Uberlândia,Jaraguá
+3.000,3,10,2,4,Uberlândia,Novo Mundo
+2.800,3,180,2,3,Uberlândia,Lídice
+2.300,3,120,3,3,Uberlândia,Jardim Brasília
+3.200,3,90,2,2,Uberlândia,Bosque dos Buritis
+2.700,2,143,2,2,Uberlândia,Granada
+28.000,4,800,5,5,Uberlândia,Morada da Colina
+28.000,4,800,5,5,Uberlândia,Morada da Colina
+2.200,3,300,4,1,Uberlândia,Brasil
+2.980,3,150,2,1,Uberlândia,Martins
+2.800,5,210,2,2,Uberlândia,Marta Helena
+15.000,3,310,2,5,Uberlândia,Jardim das Palmeiras
+800,2,45,1,1,Uberlândia,Presidente Roosevelt
+4.000,3,150,2,3,Uberlândia,Segismundo Pereira
+2.700,3,230,2,1,Uberlândia,Santa Mônica
+3.500,3,200,3,1,Uberlândia,Osvaldo Rezende
+10.000,3,310,2,5,Uberlândia,Jardim das Palmeiras
+800,2,,0,1,Uberlândia,Morumbi
+4.250,3,250,0,3,Uberlândia,Morada dos Pássaros
+3.800,3,226,2,3,Uberlândia,Umuarama
+5.500,3,215,2,3,Uberlândia,Tabajaras
+900,2,70,0,1,Uberlândia,Tubalina
+1.500,3,115,2,1,Uberlândia,Daniel Fonseca
+15.000,3,310,2,5,Uberlândia,Jardim das Palmeiras
+14.000,3,267,4,5,Uberlândia,Nova Uberlândia
+14.000,3,267,4,5,Uberlândia,Nova Uberlândia
+3.900,4,275,2,3,Uberlândia,Segismundo Pereira
+1.000,2,60,1,1,Uberlândia,Tibery
+1.150,2,90,1,1,Uberlândia,Aclimação
+2.980,3,170,2,2,Uberlândia,Martins
+1.500,3,110,0,3,Uberlândia,Jardim Canaã
+2.700,2,143,2,2,Uberlândia,Granada
+3.400,3,110,2,2,Uberlândia,Luizote de Freitas
+28.000,4,800,5,5,Uberlândia,Jardim Sul
+4.000,3,180,2,3,Uberlândia,Aclimação
+2.200,3,199,2,2,Uberlândia,Daniel Fonseca
+6.800,3,280,3,2,Uberlândia,Morada da Colina
+14.000,3,315,5,5,Uberlândia,Morada da Colina
+22.000,4,520,4,2,Uberlândia,Jardim Karaíba
+27.000,5,10,5,5,Uberlândia,Cidade Jardim
+7.800,3,230,2,5,Uberlândia,Gávea
+14.000,3,360,4,5,Uberlândia,Morada da Colina
+2.000,3,110,2,2,Uberlândia,Fundinho
+20.000,5,450,5,5,Uberlândia,Lídice
+15.000,3,270,3,4,Uberlândia,Granja Marileusa
+900,2,55,1,1,Uberlândia,Tubalina
+3.200,3,180,2,1,Uberlândia,Planalto
+1.600,2,80,0,1,Uberlândia,Custódio Pereira
+2.000,3,140,2,1,Uberlândia,Nossa Senhora das Graças
+2.000,3,100,0,1,Uberlândia,Brasil
+18.000,3,244,2,5,Uberlândia,Granja Marileusa
+1.600,3,170,2,1,Uberlândia,Nova Uberlândia
+7.000,1,100,1,2,Uberlândia,Lídice
+7.000,3,300,3,5,Uberlândia,Tabajaras
+10.000,4,270,4,5,Uberlândia,Nova Uberlândia
+3.800,3,250,3,3,Uberlândia,Umuarama
+2.500,3,90,1,2,Uberlândia,Novo Mundo
+4.500,3,300,2,5,Uberlândia,Osvaldo Rezende
+3.600,3,125,2,2,Uberlândia,Novo Mundo
+3.000,3,125,2,2,Uberlândia,Novo Mundo
+2.500,3,120,4,3,Uberlândia,Alto Umuarama
+1.600,2,100,1,1,Uberlândia,Centro
+4.200,4,239,2,1,Uberlândia,Segismundo Pereira
+1.300,2,80,3,1,Uberlândia,Minas Gerais
+2.800,3,182,2,2,Uberlândia,Centro
+4.000,3,150,2,2,Uberlândia,Aclimação
+800,2,45,1,1,Uberlândia,Segismundo Pereira
+20.000,5,450,5,1,Uberlândia,Lídice
+490,2,25,0,1,Uberlândia,Minas Gerais
+2.900,3,220,2,3,Uberlândia,Lídice
+3.500,3,174,2,2,Uberlândia,Brasil
+1.000,2,60,1,1,Uberlândia,Jardim Patrícia
+1.350,2,150,2,1,Uberlândia,Jardim Ipanema
+800,3,60,0,2,Uberlândia,Nossa Senhora Aparecida
+2.500,3,162,2,3,Uberlândia,Santa Mônica
+20.000,5,450,5,5,Uberlândia,Lídice
+2.800,3,250,2,3,Uberlândia,Umuarama
+14.000,3,267,4,5,Uberlândia,Nova Uberlândia
+28.000,5,1000,5,5,Uberlândia,Cidade Jardim
+6.000,3,220,1,4,Uberlândia,Saraiva
+2.200,3,116,2,2,Uberlândia,Jardim Europa
+3.800,3,250,3,3,Uberlândia,Umuarama
+1.150,2,70,1,1,Uberlândia,Martins
+9.500,4,362,0,4,Uberlândia,Morada da Colina
+2.800,2,92,2,3,Uberlândia,Pacaembu
+1.300,3,90,1,1,Uberlândia,Residencial Viviane
+650,2,60,1,1,Uberlândia,Presidente Roosevelt
+900,2,60,1,1,Uberlândia,Custódio Pereira
+3.500,3,245,2,3,Uberlândia,Umuarama
+1.400,3,90,2,2,Uberlândia,Laranjeiras
+1.450,2,60,1,1,Uberlândia,Fundinho
+2.200,3,100,1,1,Uberlândia,Santa Mônica
+6.000,4,300,0,2,Uberlândia,Santa Mônica
+3.200,3,19,1,2,Uberlândia,Tibery
+1.500,1,58,1,1,Uberlândia,Custódio Pereira
+1.450,3,77,1,2,Uberlândia,Presidente Roosevelt
+4.850,5,223,1,3,Uberlândia,Martins
+1.650,3,80,0,1,Uberlândia,Nossa Senhora Aparecida
+3.500,3,138,2,4,Uberlândia,Novo Mundo
+2.200,3,100,1,2,Uberlândia,Tibery
+1.200,3,75,1,1,Uberlândia,Tubalina
+2.100,3,141,1,2,Uberlândia,Segismundo Pereira
+4.800,4,240,3,1,Uberlândia,Presidente Roosevelt
+28.000,5,1000,5,5,Uberlândia,Cidade Jardim
+800,2,60,1,1,Uberlândia,Brasil
+3.800,4,244,3,1,Uberlândia,Santa Mônica
+28.000,5,1000,5,5,Uberlândia,Cidade Jardim
+700,1,40,0,1,Uberlândia,Taiaman
+2.800,3,237,4,2,Uberlândia,Santa Mônica
+3.400,3,107,2,2,Uberlândia,Luizote de Freitas
+4.200,3,250,5,1,Uberlândia,Santa Mônica
+12.000,4,300,3,1,Uberlândia,Morada da Colina
+360,1,33,0,1,Uberlândia,Residencial Integração
+3.900,2,132,2,2,Uberlândia,Jardim Karaíba
+4.500,3,375,4,1,Uberlândia,Saraiva
+13.800,4,430,3,4,Uberlândia,Morada da Colina
+5.900,3,180,2,4,Uberlândia,Laranjeiras
+1.200,1,90,0,1,Uberlândia,Martins
+19.000,3,334,2,1,Uberlândia,Nova Uberlândia
+10.000,4,450,2,4,Uberlândia,Morada da Colina
+15.000,3,310,2,5,Uberlândia,Jardim das Palmeiras
+11.500,4,10,4,2,Uberlândia,Morada da Colina
+1.900,2,65,1,2,Uberlândia,Santa Rosa
+1.000,2,55,1,1,Uberlândia,Jardim Patrícia
+15.000,4,311,3,5,Uberlândia,Jardim das Palmeiras
+950,2,57,1,1,Uberlândia,Jardim Europa
+950,2,40,0,1,Uberlândia,Martins
+1.500,2,60,1,1,Uberlândia,Tibery
+550,1,38,0,1,Uberlândia,Planalto
+12.000,3,218,2,4,Uberlândia,Laranjeiras
+1.100,3,70,2,1,Uberlândia,Laranjeiras
+980,2,45,1,1,Uberlândia,Laranjeiras
+1.400,2,70,1,2,Uberlândia,Minas Gerais
+10.000,4,450,2,4,Uberlândia,Morada da Colina
+10.000,4,450,2,4,Uberlândia,Morada da Colina
+3.800,3,350,3,3,Uberlândia,Umuarama
+2.200,3,80,2,2,Uberlândia,Minas Gerais
+900,1,70,0,1,Uberlândia,Segismundo Pereira
+,3,,1,1,Uberlândia,Osvaldo Rezende
+,2,50,1,1,Uberlândia,Brasil
+2.300,4,250,2,3,Uberlândia,Laranjeiras
+125.000,3,,3,2,Uberlândia,Residencial Integração
+700,2,40,0,1,Uberlândia,Centro
+880,2,55,0,2,Uberlândia,Martins
+2.500,3,160,0,1,Uberlândia,Lídice
+600,1,35,0,1,Uberlândia,Centro
+1.000,2,45,1,1,Uberlândia,Granada
+8.000,3,330,3,2,Uberlândia,Osvaldo Rezende
+7.000,4,356,5,5,Uberlândia,Tabajaras
+4.000,3,147,3,3,Uberlândia,Segismundo Pereira
+14.000,3,360,3,5,Uberlândia,Morada da Colina
+4.000,3,250,4,3,Uberlândia,Laranjeiras
+700,2,42,1,1,Uberlândia,Segismundo Pereira
+4.200,3,240,2,3,Uberlândia,Segismundo Pereira
+2.800,3,120,3,1,Uberlândia,Marta Helena
+800,2,60,0,1,Uberlândia,Osvaldo Rezende
+1.000,2,133,1,1,Uberlândia,Presidente Roosevelt
+1.200,3,60,1,2,Uberlândia,Centro
+3.200,3,180,2,2,Uberlândia,Tibery
+15.000,1,337,2,2,Uberlândia,Lídice
+15.000,1,337,2,2,Uberlândia,Lídice
+950,1,38,0,1,Uberlândia,Daniel Fonseca
+20.000,3,660,4,5,Uberlândia,Morada da Colina
+700,1,60,0,1,Uberlândia,Santa Mônica
+1.100,2,70,1,1,Uberlândia,Segismundo Pereira
+2.500,3,120,1,2,Uberlândia,Cidade Jardim
+850,2,60,1,1,Uberlândia,Jardim Brasília
+850,2,60,0,1,Uberlândia,Jardim Brasília
+1.200,3,80,2,2,Uberlândia,São Jorge
+1.400,3,150,2,2,Uberlândia,Lagoinha
+9.500,4,210,4,4,Uberlândia,Jardim Botânico
+2.500,3,80,2,1,Uberlândia,Laranjeiras
+2.500,3,80,2,1,Uberlândia,Laranjeiras
+1.900,2,53,1,2,Uberlândia,Santa Rosa
+2.800,2,160,5,2,Uberlândia,Tabajaras
+4.000,3,200,3,3,Uberlândia,Laranjeiras
+1.200,2,55,0,1,Uberlândia,Saraiva
+2.700,3,200,3,4,Uberlândia,Cidade Jardim
+3.800,4,250,3,4,Uberlândia,Santa Mônica
+6.200,4,330,4,5,Uberlândia,Vigilato Pereira
+1.700,4,150,1,2,Uberlândia,Nossa Senhora Aparecida
+6.000,4,200,2,3,Uberlândia,Cidade Jardim
+4.000,1,100,0,1,Uberlândia,Nossa Senhora Aparecida
+3.500,3,140,3,2,Uberlândia,Jardim Europa
+3.800,3,216,2,2,Uberlândia,Tabajaras
+5.000,3,300,4,3,Uberlândia,Osvaldo Rezende
+5.900,3,150,2,4,Uberlândia,Laranjeiras
+1.100,3,90,1,3,Uberlândia,Jardim Ipanema
+800,3,50,0,1,Uberlândia,Guarani
+4.500,5,300,2,5,Uberlândia,Vigilato Pereira
+1.000,1,60,0,1,Uberlândia,Martins
+1.900,2,53,1,1,Uberlândia,Santa Rosa
+6.200,4,330,4,5,Uberlândia,Vigilato Pereira
+1.400,3,85,2,1,Uberlândia,Tubalina
+6.200,4,330,4,5,Uberlândia,Saraiva
+4.200,3,220,2,3,Uberlândia,Vigilato Pereira
+800,2,60,2,1,Uberlândia,Aclimação
+1.900,3,132,1,2,Uberlândia,Santa Mônica
+2.800,3,150,2,2,Uberlândia,Vigilato Pereira
+1.400,4,80,3,2,Uberlândia,Lídice
+1.100,2,87,1,1,Uberlândia,São Jorge
+1.500,2,80,1,3,Uberlândia,Centro
+1.800,3,123,4,1,Uberlândia,Jardim Brasília
+2.200,3,150,2,5,Uberlândia,Lagoinha
+2.000,3,90,1,2,Uberlândia,Brasil
+1.450,2,50,1,1,Uberlândia,Martins
+3.800,4,244,3,4,Uberlândia,Santa Mônica
+3.200,3,190,5,3,Uberlândia,Tibery
+5.500,1,250,3,4,Uberlândia,Lídice
+1.300,3,80,1,1,Uberlândia,Nossa Senhora Aparecida
+1.700,2,70,2,2,Uberlândia,Novo Mundo
+2.400,3,150,4,2,Uberlândia,Tibery
+20.000,4,491,0,5,Uberlândia,Jardim Karaíba
+3.600,3,180,3,2,Uberlândia,Mansour
+4.000,3,240,3,2,Uberlândia,Fundinho
+15.000,4,340,4,5,Uberlândia,Jardim Karaíba
+10.000,4,270,4,5,Uberlândia,Nova Uberlândia
+1.450,3,150,3,2,Uberlândia,Maravilha
+3.500,3,184,2,2,Uberlândia,Cidade Jardim
+2.100,3,140,2,2,Uberlândia,Jardim Patrícia
+20.000,3,491,4,5,Uberlândia,Jardim Karaíba
+1.500,2,63,3,1,Uberlândia,Jardim Canaã
+3.800,4,300,5,2,Uberlândia,Segismundo Pereira
+3.500,3,250,2,2,Uberlândia,Nossa Senhora Aparecida
+950,3,70,3,2,Uberlândia,Jardim das Palmeiras
+20.000,4,250,5,1,Uberlândia,Granada
+9.000,4,332,2,5,Uberlândia,Granada
+1.900,2,53,1,1,Uberlândia,Santa Rosa
+800,2,50,1,1,Uberlândia,Osvaldo Rezende
+12.000,4,455,4,5,Uberlândia,Nova Uberlândia
+950,2,75,1,1,Uberlândia,Martins
+850,2,60,1,1,Uberlândia,Marta Helena
+800,2,45,0,1,Uberlândia,Bom Jesus
+7.000,3,192,2,5,Uberlândia,Jardim Karaíba
+2.200,3,98,3,3,Uberlândia,Santa Mônica
+2.800,3,130,3,2,Uberlândia,Lagoinha
+3.100,3,230,4,2,Uberlândia,Umuarama
+5.400,3,200,2,3,Uberlândia,Jardim Karaíba
+900,3,81,0,2,Uberlândia,Centro
+1.000,3,60,1,2,Uberlândia,Jaraguá
+1.700,3,200,2,2,Uberlândia,Nossa Senhora Aparecida
+1.400,4,130,3,2,Uberlândia,Lídice
+2.800,3,150,3,2,Uberlândia,Brasil
+4.900,3,200,2,1,Uberlândia,Planalto
+1.800,3,94,5,2,Uberlândia,Santa Mônica
+2.800,3,180,3,2,Uberlândia,Brasil
+1.800,4,129,2,2,Uberlândia,Jardim Patrícia
+1.700,3,80,0,1,Uberlândia,Daniel Fonseca
+1.650,3,100,3,1,Uberlândia,Jardim Patrícia
+1.250,2,70,0,1,Uberlândia,Taiaman
+15.000,4,340,4,5,Uberlândia,Jardim Karaíba
+5.000,3,160,3,4,Uberlândia,Granja Marileusa
+350,2,1000,5,1,Uberlândia,Tocantins
+2.800,3,100,5,1,Uberlândia,Santa Mônica
+7.000,3,192,2,5,Uberlândia,Jardim Karaíba
+1.300,2,70,1,1,Uberlândia,Marta Helena
+1.600,3,130,3,2,Uberlândia,Jaraguá
+6.000,4,354,4,1,Uberlândia,Saraiva
+1.000,2,45,1,1,Uberlândia,Granada
+3.500,4,200,2,1,Uberlândia,Cazeca
+1.300,2,80,3,1,Uberlândia,Jardim Europa
+3.000,3,190,1,2,Uberlândia,Nossa Senhora Aparecida
+8.500,5,408,4,5,Uberlândia,Vigilato Pereira
+5.500,3,380,4,3,Uberlândia,Cidade Jardim
+5.500,5,10,0,3,Uberlândia,Presidente Roosevelt
+12.000,3,221,4,5,Uberlândia,Laranjeiras
+3.000,3,83,1,3,Uberlândia,Santa Mônica
+2.200,2,90,4,2,Uberlândia,Tibery
+2.900,3,200,2,2,Uberlândia,Cazeca
+1.000,2,56,1,1,Uberlândia,Pampulha
+2.000,2,120,2,2,Uberlândia,Brasil
+5.500,5,277,5,1,Uberlândia,Cidade Jardim
+12.000,4,650,4,5,Uberlândia,Brasil
+5.500,5,277,5,5,Uberlândia,Cidade Jardim
+4.000,3,250,2,1,Uberlândia,Lídice
+1.400,2,110,2,2,Uberlândia,Taiaman
+5.400,3,160,2,3,Uberlândia,Jardim Karaíba
+3.400,3,110,2,2,Uberlândia,Luizote de Freitas
+2.500,3,233,3,2,Uberlândia,Brasil
+880,2,70,1,2,Uberlândia,Lagoinha
+1.200,2,50,1,1,Uberlândia,Santa Mônica
+2.500,3,125,2,2,Uberlândia,Laranjeiras
+1.500,3,,2,1,Uberlândia,Jardim Patrícia
+2.400,3,125,3,1,Uberlândia,Cidade Jardim
+1.100,2,65,4,1,Uberlândia,Mansour III
+3.950,3,,3,4,Uberlândia,Saraiva
+2.800,3,289,4,3,Uberlândia,Brasil
+1.200,3,90,0,1,Uberlândia,Brasil
+3.000,3,130,2,2,Uberlândia,Novo Mundo
+1.000,2,133,1,1,Uberlândia,Presidente Roosevelt
+2.600,3,168,2,2,Uberlândia,Jardim Brasília
+1.412,3,106,1,2,Uberlândia,Aclimação
+3.000,3,130,2,2,Uberlândia,Novo Mundo
+750,1,35,0,1,Uberlândia,São Jorge
+1.700,3,166,1,2,Uberlândia,Brasil
+5.000,3,250,3,3,Uberlândia,Segismundo Pereira
+8.700,3,175,4,2,Uberlândia,Cidade Jardim
+9.000,3,550,4,4,Uberlândia,Morada da Colina
+3.500,3,200,2,2,Uberlândia,Centro
+4.900,3,130,2,2,Uberlândia,Planalto
+1.900,3,130,1,2,Uberlândia,Cidade Jardim
+6.500,3,221,5,1,Uberlândia,Planalto
+2.300,3,120,4,1,Uberlândia,Nova Uberlândia
+1.350,3,76,1,1,Uberlândia,Pacaembu
+9.000,3,550,4,4,Uberlândia,Morada da Colina
+9.000,3,550,4,4,Uberlândia,Morada da Colina
+4.500,3,300,2,4,Uberlândia,Osvaldo Rezende
+3.300,3,164,3,2,Uberlândia,Alto Umuarama
+1.900,2,53,5,1,Uberlândia,Santa Rosa
+3.700,4,,2,5,Uberlândia,Jardim Karaíba
+1.750,2,70,2,1,Uberlândia,Granada
+1.900,2,65,1,2,Uberlândia,Santa Rosa
+1.500,4,120,4,2,Uberlândia,Brasil
+700,2,88,1,1,Uberlândia,Tubalina
+8.000,3,255,3,1,Uberlândia,Jardim Karaíba
+5.500,3,185,3,4,Uberlândia,Vigilato Pereira
+750,3,,0,1,Uberlândia,Jardim Brasília
+1.000,2,50,1,1,Uberlândia,Lídice
+1.200,2,60,4,1,Uberlândia,Presidente Roosevelt
+3.000,3,270,1,2,Uberlândia,Osvaldo Rezende
+2.800,3,140,5,2,Uberlândia,Brasil
+2.000,2,66,2,1,Uberlândia,Pacaembu
+8.500,5,400,3,2,Uberlândia,Lídice
+1.500,2,62,1,1,Uberlândia,Laranjeiras
+12.000,3,370,3,4,Uberlândia,Morada da Colina
+1.000,2,95,2,3,Uberlândia,Santa Luzia
+16.000,4,300,2,5,Uberlândia,Jardim Botânico
+8.000,4,270,2,5,Uberlândia,Jardim das Palmeiras
+15.000,3,254,4,4,Uberlândia,Jardim Sul
+2.100,3,100,3,1,Uberlândia,Martins
+2.500,3,192,2,4,Uberlândia,Cidade Jardim
+3.000,3,180,2,3,Uberlândia,Jardim Holanda
+2.500,3,236,2,3,Uberlândia,Cidade Jardim
+2.500,3,130,2,2,Uberlândia,Cidade Jardim
+10.000,3,300,4,5,Uberlândia,Jardim Karaíba
+1.100,3,90,0,1,Uberlândia,Tubalina
+1.300,2,60,0,1,Uberlândia,Presidente Roosevelt
+3.300,3,221,2,2,Uberlândia,Santa Mônica
+8.000,3,300,2,2,Uberlândia,Santa Mônica
+2.700,3,170,2,1,Uberlândia,Tibery
+980,2,64,0,1,Uberlândia,Osvaldo Rezende
+15.000,3,254,4,4,Uberlândia,Jardim Sul
+15.000,3,254,4,4,Uberlândia,Jardim Sul
+1.300,2,80,4,1,Uberlândia,Jardim Europa
+8.000,5,367,2,5,Uberlândia,Jardim Karaíba
+4.800,3,200,2,3,Uberlândia,Jardim Inconfidência
+3.500,3,297,2,4,Uberlândia,Centro
+68.000,1,4600,1,1,Uberlândia,Umuarama
+2.800,3,146,1,2,Uberlândia,Tubalina
+550,1,54,0,1,Uberlândia,Nossa Senhora Aparecida
+4.500,1,300,0,3,Uberlândia,Lídice
+8.000,1,162,0,2,Uberlândia,Centro
+7.000,5,260,3,3,Uberlândia,Vigilato Pereira
+5.500,3,230,2,3,Uberlândia,Saraiva
+17.000,1,250,0,5,Uberlândia,Martins
+11.500,4,450,4,5,Uberlândia,Jardim Karaíba
+2.500,2,70,1,2,Uberlândia,Jardim Europa
+2.500,3,70,2,2,Uberlândia,Jardim Karaíba
+3.000,3,220,2,3,Uberlândia,Vigilato Pereira
+3.350,2,140,2,2,Uberlândia,Tabajaras
+1.500,5,140,2,3,Uberlândia,Luizote de Freitas
+4.500,3,175,4,3,Uberlândia,Segismundo Pereira
+5.900,4,185,0,4,Uberlândia,Jardim Karaíba
+2.800,3,100,5,1,Uberlândia,Santa Mônica
+2.450,3,200,2,2,Uberlândia,Santa Rosa
+3.200,3,180,2,3,Uberlândia,Segismundo Pereira
+4.000,3,360,4,3,Uberlândia,Santa Mônica
+1.300,2,80,2,1,Uberlândia,Jardim Europa
+3.800,5,180,2,5,Uberlândia,Fundinho
+10.500,4,257,3,4,Uberlândia,Granja Marileusa
+8.000,5,367,2,5,Uberlândia,Jardim Karaíba
+9.000,4,355,2,5,Uberlândia,Jardim Inconfidência
+12.000,3,370,4,5,Uberlândia,Morada da Colina
+1.350,3,80,1,2,Uberlândia,Nova Uberlândia
+4.900,3,300,3,1,Uberlândia,Santa Mônica
+2.200,4,300,2,3,Uberlândia,Osvaldo Rezende
+8.000,5,367,2,5,Uberlândia,Jardim Karaíba
+2.800,3,200,3,2,Uberlândia,Cidade Jardim
+,4,,2,4,Uberlândia,Residencial Integração
+,2,,2,1,Uberlândia,Custódio Pereira
+3.600,3,180,2,2,Uberlândia,Cidade Jardim
+8.335,4,385,4,4,Uberlândia,Lídice
+700,1,50,1,1,Uberlândia,Centro
+3.500,3,245,4,3,Uberlândia,Tubalina
+9.000,4,365,3,3,Uberlândia,Morada da Colina
+3.500,3,190,0,3,Uberlândia,Granada
+6.000,3,380,2,1,Uberlândia,Lídice
+1.600,3,93,1,2,Uberlândia,Santa Mônica
+2.500,3,168,3,3,Uberlândia,Planalto
+9.500,5,294,4,5,Uberlândia,Morada da Colina
+4.000,5,180,2,4,Uberlândia,Fundinho
+0,1,,0,1,Uberlândia,Bom Jesus
+2.200,2,170,1,2,Uberlândia,Santa Mônica
+670,2,63,0,1,Uberlândia,Presidente Roosevelt
+2.600,3,90,0,1,Uberlândia,Lídice
+2.800,4,289,4,2,Uberlândia,Brasil
+3.500,3,180,2,3,Uberlândia,Jardim Europa
+4.000,5,180,2,4,Uberlândia,Fundinho
+4.000,5,180,2,4,Uberlândia,Fundinho
+15.000,3,460,2,4,Uberlândia,Jardim Sul
+4.300,4,368,3,2,Uberlândia,Tabajaras
+2.000,3,168,2,3,Uberlândia,Taiaman
+1.300,2,80,2,1,Uberlândia,Jardim Europa
+14.500,5,570,5,2,Uberlândia,Morada do Sol
+1.500,3,80,1,1,Uberlândia,Bom Jesus
+5.000,3,300,2,5,Uberlândia,Saraiva
+2.000,2,90,5,1,Uberlândia,Jardim Colina
+2.200,2,100,2,3,Uberlândia,Jardim Colina
+3.200,3,90,2,2,Uberlândia,Bosque dos Buritis
+2.700,3,150,2,2,Uberlândia,Tibery
+650,3,76,0,1,Uberlândia,Pacaembu
+800,1,32,2,1,Uberlândia,Presidente Roosevelt
+3.800,3,190,3,2,Uberlândia,Cidade Jardim
+9.500,4,362,4,1,Uberlândia,Morada da Colina
+18.000,3,350,4,1,Uberlândia,Gávea
+12.000,3,200,2,1,Uberlândia,Nova Uberlândia
+6.000,2,190,4,3,Uberlândia,Vigilato Pereira
+13.000,4,400,5,5,Uberlândia,Cidade Jardim
+12.000,3,10,2,1,Uberlândia,Nova Uberlândia
+16.000,4,300,2,2,Uberlândia,Jardim Botânico
+400,1,35,0,1,Uberlândia,Presidente Roosevelt
+3.500,3,243,2,2,Uberlândia,Tubalina
+5.900,3,280,2,1,Uberlândia,Lídice
+4.000,3,210,1,3,Uberlândia,Granada
+1.850,2,80,3,1,Uberlândia,Bosque dos Buritis
+4.800,3,287,2,2,Uberlândia,Cidade Jardim
+2.500,2,120,2,2,Uberlândia,Aclimação
+11.950,4,10,4,3,Uberlândia,Jardim Karaíba
+8.000,4,253,2,4,Uberlândia,Jardim Colina
+4.500,3,180,3,2,Uberlândia,Jardim Patrícia
+3.000,3,110,2,2,Uberlândia,Santa Mônica
+12.500,4,300,2,3,Uberlândia,Nova Uberlândia
+7.000,4,270,4,2,Uberlândia,Jardim Karaíba
+14.500,4,10,3,2,Uberlândia,Gávea
+5.800,4,240,2,5,Uberlândia,Morada da Colina
+3.800,3,150,2,3,Uberlândia,Cidade Jardim
+10.000,4,350,4,4,Uberlândia,Osvaldo Rezende
+3.200,3,181,2,3,Uberlândia,Santa Mônica
+1.200,2,100,1,2,Uberlândia,Jaraguá
+2.800,3,180,3,2,Uberlândia,Granada
+6.500,4,330,4,5,Uberlândia,Vigilato Pereira
+8.500,3,352,4,1,Uberlândia,Vigilato Pereira
+4.200,3,200,4,3,Uberlândia,Alto Umuarama
+3.500,3,200,2,3,Uberlândia,Nossa Senhora Aparecida
+3.900,3,180,0,2,Uberlândia,Planalto
+5.400,3,120,3,1,Uberlândia,Jardim Karaíba
+950,1,38,0,1,Uberlândia,Daniel Fonseca
+9.800,3,300,3,5,Uberlândia,Aclimação
+1.100,2,75,1,1,Uberlândia,Segismundo Pereira
+2.800,3,200,2,2,Uberlândia,Umuarama
+5.400,3,120,2,4,Uberlândia,Jardim Karaíba
+9.500,4,362,2,5,Uberlândia,Morada da Colina
+4.000,3,235,4,1,Uberlândia,Tubalina
+3.800,5,180,2,1,Uberlândia,Fundinho
+3.800,3,140,3,2,Uberlândia,Planalto
+1.000,3,68,1,1,Uberlândia,Jardim Canaã
+1.000,2,70,1,1,Uberlândia,Saraiva
+800,1,3,1,1,Uberlândia,Marta Helena
+4.900,3,200,2,2,Uberlândia,Planalto
+5.000,3,120,1,2,Uberlândia,Lídice
+900,2,90,1,2,Uberlândia,Pacaembu
+7.000,3,220,2,1,Uberlândia,Jardim Colina
+2.700,3,120,1,2,Uberlândia,Tibery
+2.000,3,150,2,3,Uberlândia,Marta Helena
+2.200,2,100,5,2,Uberlândia,Tibery
+1.350,3,158,2,2,Uberlândia,Jaraguá
+2.800,3,140,2,2,Uberlândia,Tubalina
+1.200,2,90,0,2,Uberlândia,Tibery
+2.200,2,160,0,1,Uberlândia,Morada da Colina
+3.500,3,196,2,1,Uberlândia,Nossa Senhora Aparecida
+2.200,2,183,0,2,Uberlândia,Lídice
+2.800,3,289,3,3,Uberlândia,Brasil
+2.800,3,250,5,2,Uberlândia,Centro
+3.400,3,107,2,1,Uberlândia,Luizote de Freitas
+1.300,3,90,0,1,Uberlândia,Custódio Pereira
+1.800,3,130,1,1,Uberlândia,Cidade Jardim
+2.100,3,160,3,2,Uberlândia,Marta Helena
+12.500,4,231,2,5,Uberlândia,Grand Ville
+8.700,3,530,4,4,Uberlândia,Cidade Jardim
+2.500,4,200,5,4,Uberlândia,Daniel Fonseca
+2.000,3,80,0,3,Uberlândia,Santa Rosa
+3.900,3,201,2,2,Uberlândia,Tubalina
+8.700,3,270,2,4,Uberlândia,Jardim Inconfidência
+2.700,4,184,3,3,Uberlândia,Brasil
+1.800,3,146,1,2,Uberlândia,Umuarama
+5.400,3,159,2,3,Uberlândia,Jardim Karaíba
+,1,,0,,Uberlândia,Pacaembu
+2.000,5,200,2,4,Uberlândia,Cidade Jardim
+2.200,1,74,1,2,Uberlândia,Morada da Colina
+6.000,3,220,2,5,Uberlândia,Jardim Inconfidência
+4.000,4,106,2,5,Uberlândia,Jardim Karaíba
+700,2,50,0,2,Uberlândia,Osvaldo Rezende
+2.800,3,160,2,2,Uberlândia,Tubalina
+1.000,2,50,0,1,Uberlândia,Granada
+12.000,3,200,2,3,Uberlândia,Jardim das Palmeiras
+2.300,3,179,2,2,Uberlândia,Presidente Roosevelt
+5.500,3,241,2,2,Uberlândia,Cidade Jardim
+1.150,2,67,1,1,Uberlândia,Jardim das Palmeiras
+3.500,3,70,2,2,Uberlândia,Nossa Senhora Aparecida
+2.450,3,220,3,2,Uberlândia,Santa Rosa
+4.200,3,300,4,4,Uberlândia,Fundinho
+1.200,2,70,0,1,Uberlândia,Alto Umuarama
+200.000,2,,1,2,Uberlândia,Dona Zulmira
+6.000,3,250,3,3,Uberlândia,Jardim Karaíba
+1.150,2,55,1,1,Uberlândia,Presidente Roosevelt
+4.900,3,270,4,3,Uberlândia,Santa Mônica
+15.000,4,360,4,5,Uberlândia,Jardim Karaíba
+2.000,3,180,1,3,Uberlândia,Brasil
+1.100,3,110,2,1,Uberlândia,Brasil
+650,1,40,0,1,Uberlândia,Santa Mônica
+5.000,4,300,4,2,Uberlândia,Fundinho
+5.000,4,300,2,2,Uberlândia,Cazeca
+6.000,3,300,1,3,Uberlândia,Vigilato Pereira
+3.500,5,250,1,1,Uberlândia,Martins
+850,2,49,0,1,Uberlândia,Tibery
+1.000,2,59,1,1,Uberlândia,Tubalina
+3.500,4,167,3,3,Uberlândia,Alto Umuarama
+1.800,3,220,2,2,Uberlândia,Segismundo Pereira
+8.500,3,352,4,4,Uberlândia,Vigilato Pereira
+3.800,3,180,3,3,Uberlândia,Segismundo Pereira
+5.500,5,280,4,5,Uberlândia,Tabajaras
+2.600,3,170,3,3,Uberlândia,Santa Rosa
+5.500,5,280,4,5,Uberlândia,Tabajaras
+6.000,3,240,2,3,Uberlândia,Jardim Karaíba
+2.600,3,150,2,2,Uberlândia,Jardim Europa
+5.800,3,260,2,4,Uberlândia,Cidade Jardim
+4.000,3,218,2,3,Uberlândia,Segismundo Pereira
+2.500,3,130,1,1,Uberlândia,Novo Mundo
+2.400,3,140,2,1,Uberlândia,Cidade Jardim
+9.500,4,210,2,4,Uberlândia,Jardim Botânico
+1.400,3,60,2,1,Uberlândia,Santa Mônica
+8.000,3,210,4,4,Uberlândia,Grand Ville
+0,1,,1,1,Uberlândia,Maravilha
+2.800,3,170,4,3,Uberlândia,Granada
+10.000,4,552,4,5,Uberlândia,Morada da Colina
+6.800,3,350,2,3,Uberlândia,Lídice
+1.900,3,56,1,1,Uberlândia,Presidente Roosevelt
+1.100,3,65,1,1,Uberlândia,Santa Luzia
+650,1,35,0,1,Uberlândia,Lídice
+500,3,,5,4,Uberlândia,Morumbi
+3.500,3,96,1,3,Uberlândia,Jardim Karaíba
+880,2,60,1,1,Uberlândia,Presidente Roosevelt
+1.800,3,125,2,2,Uberlândia,Brasil
+1.000,2,110,2,1,Uberlândia,Morumbi
+3.900,3,132,2,2,Uberlândia,Jardim Karaíba
+2.400,3,140,3,2,Uberlândia,Cidade Jardim
+3.700,3,106,2,1,Uberlândia,Jardim Karaíba
+2.600,3,150,2,2,Uberlândia,Jardim Europa
+2.200,3,77,1,1,Uberlândia,Jardim Karaíba
+250,2,80,1,1,Uberlândia,Saraiva
+7.000,4,10,4,4,Uberlândia,Jardim Karaíba
+7.000,3,250,4,5,Uberlândia,Cidade Jardim
+790,2,50,1,1,Uberlândia,Brasil
+1.000,2,55,1,1,Uberlândia,Martins
+6.800,3,380,4,1,Uberlândia,Lídice
+4.000,4,337,4,4,Uberlândia,Umuarama
+3.500,3,160,2,2,Uberlândia,Cidade Jardim
+3.500,3,160,2,2,Uberlândia,Cidade Jardim
+3.000,3,189,2,2,Uberlândia,Santa Mônica
+10.000,3,209,2,4,Uberlândia,Jardim Botânico
+12.000,4,416,3,5,Uberlândia,Morada da Colina
+12.000,4,416,3,5,Uberlândia,Morada da Colina
+10.000,3,209,2,4,Uberlândia,Jardim Botânico
+5.500,4,280,4,1,Uberlândia,Tabajaras
+10.000,3,210,2,4,Uberlândia,Jardim Botânico
+5.000,3,147,2,2,Uberlândia,Santa Mônica
+2.100,3,65,1,1,Uberlândia,Umuarama
+1.150,3,60,1,1,Uberlândia,Santa Mônica
+4.500,4,280,4,2,Uberlândia,Lídice
+700,1,,0,1,Uberlândia,Presidente Roosevelt
+22.000,5,650,4,5,Uberlândia,Jardim Karaíba
+22.000,5,650,4,5,Uberlândia,Jardim Karaíba
+3.000,3,150,4,1,Uberlândia,Pampulha
+2.500,3,162,2,3,Uberlândia,Santa Mônica
+1.400,2,119,2,1,Uberlândia,Martins
+3.750,3,250,5,3,Uberlândia,Santa Mônica
+3.000,3,230,2,3,Uberlândia,Pampulha
+3.300,3,125,5,3,Uberlândia,Presidente Roosevelt
+3.000,4,200,3,3,Uberlândia,Umuarama
+7.800,4,315,2,4,Uberlândia,Aclimação
+1.100,2,65,3,1,Uberlândia,Luizote de Freitas
+1.100,3,60,1,1,Uberlândia,Marta Helena
+1.200,2,60,1,1,Uberlândia,Brasil
+1.000,2,70,0,1,Uberlândia,Nossa Senhora das Graças
+14.300,3,213,3,3,Uberlândia,Granja Marileusa
+4.000,3,218,0,1,Uberlândia,Segismundo Pereira
+4.500,5,200,2,4,Uberlândia,Fundinho
+12.000,3,221,4,5,Uberlândia,Laranjeiras
+1.200,3,80,2,1,Uberlândia,Tubalina
+1.700,3,150,2,2,Uberlândia,Martins
+2.500,3,100,4,3,Uberlândia,Jardim Brasília
+3.600,3,223,1,2,Uberlândia,Vigilato Pereira
+3.500,3,200,2,2,Uberlândia,Tabajaras
+6.000,4,370,4,4,Uberlândia,Tabajaras
+3.000,2,90,3,3,Uberlândia,Santa Mônica
+900,2,70,1,1,Uberlândia,Brasil
+4.500,3,220,3,1,Uberlândia,Segismundo Pereira
+6.000,4,241,2,2,Uberlândia,Jardim Karaíba
+14.300,3,213,3,3,Uberlândia,Granja Marileusa
+22.000,5,650,4,5,Uberlândia,Jardim Karaíba
+790,2,60,1,1,Uberlândia,Segismundo Pereira
+10.500,4,300,2,1,Uberlândia,Nova Uberlândia
+3.000,3,300,2,3,Uberlândia,Santa Mônica
+14.300,2,220,3,4,Uberlândia,Granja Marileusa
+3.900,3,132,1,2,Uberlândia,Jardim Karaíba
+2.600,3,165,0,3,Uberlândia,Santa Mônica
+,4,,2,4,Uberlândia,Residencial Integração
+6.000,2,250,3,3,Uberlândia,Vigilato Pereira
+27.000,5,830,5,1,Uberlândia,Cidade Jardim
+2.380,3,70,2,3,Uberlândia,Jardim Karaíba
+1.250,3,90,1,1,Uberlândia,Santa Mônica
+2.600,3,200,2,2,Uberlândia,Granada
+6.000,3,240,3,1,Uberlândia,Jardim Karaíba
+1.350,3,159,2,2,Uberlândia,Jaraguá
+4.800,3,301,4,3,Uberlândia,Saraiva
+900,4,120,3,2,Uberlândia,Fundinho
+3.500,3,146,2,2,Uberlândia,Jardim Europa
+12.000,4,416,3,5,Uberlândia,Morada da Colina
+4.500,3,122,2,3,Uberlândia,Bosque dos Buritis
+1.650,3,117,1,3,Uberlândia,Fundinho
+2.800,3,180,4,1,Uberlândia,Lídice
+1.200,1,70,2,1,Uberlândia,Jardim das Palmeiras
+3.500,3,180,2,2,Uberlândia,Morada da Colina
+14.000,3,230,4,4,Uberlândia,Granja Marileusa
+9.000,3,197,2,5,Uberlândia,Jardim Botânico
+3.500,3,180,2,2,Uberlândia,Jardim Europa
+2.800,3,150,3,2,Uberlândia,Granada
+4.500,3,210,2,3,Uberlândia,Custódio Pereira
+3.000,4,190,4,4,Uberlândia,Santa Rosa
+1.200,3,100,1,2,Uberlândia,Brasil
+3.500,3,130,3,2,Uberlândia,Osvaldo Rezende
+2.600,2,150,2,2,Uberlândia,Jardim Europa
+2.200,3,122,3,2,Uberlândia,Daniel Fonseca
+900,4,220,3,2,Uberlândia,Fundinho
+3.000,3,189,2,1,Uberlândia,Santa Mônica
+1.500,3,120,2,1,Uberlândia,Copacabana
+1.800,3,110,2,1,Uberlândia,Saraiva
+6.500,3,400,5,5,Uberlândia,Cidade Jardim
+2.000,2,160,5,1,Uberlândia,Jardim Colina
+3.500,3,323,1,3,Uberlândia,Lídice
+1.400,2,70,1,1,Uberlândia,Martins
+1.000,2,90,3,1,Uberlândia,Morumbi
+8.000,4,240,3,5,Uberlândia,Cidade Jardim
+4.000,4,106,2,5,Uberlândia,Jardim Karaíba
+5.500,3,235,3,4,Uberlândia,Cidade Jardim
+12.000,3,230,4,4,Uberlândia,Granja Marileusa
+13.000,5,560,1,3,Uberlândia,Morada do Sol
+2.500,3,90,1,2,Uberlândia,Novo Mundo
+1.800,3,160,2,2,Uberlândia,Brasil
+7.000,3,200,2,4,Uberlândia,Novo Mundo
+12.000,3,230,4,4,Uberlândia,Granja Marileusa
+5.900,3,280,2,1,Uberlândia,Lídice
+1.520,2,70,1,2,Uberlândia,Minas Gerais
+11.000,1,100,0,2,Uberlândia,Centro
+4.800,3,525,4,4,Uberlândia,Saraiva
+2.500,4,150,2,5,Uberlândia,Cazeca
+1.690,3,140,1,2,Uberlândia,Granada
+3.500,3,190,1,2,Uberlândia,Jardim Europa
+5.000,3,288,4,4,Uberlândia,Cidade Jardim
+3.400,3,140,4,2,Uberlândia,Cidade Jardim
+6.500,4,290,3,4,Uberlândia,Jardim Europa
+750,2,60,1,1,Uberlândia,Centro
+4.000,3,250,2,3,Uberlândia,Centro
+2.800,4,167,2,2,Uberlândia,Lídice
+3.400,3,146,2,1,Uberlândia,Jardim Europa
+8.000,4,320,5,4,Uberlândia,Tabajaras
+2.800,3,150,5,1,Uberlândia,Jardim Botânico
+3.000,3,100,2,3,Uberlândia,Segismundo Pereira
+2.600,3,120,2,2,Uberlândia,Osvaldo Rezende
+2.200,2,80,5,2,Uberlândia,Tibery
+2.500,4,170,1,3,Uberlândia,Centro
+3.500,3,146,1,2,Uberlândia,Jardim Europa
+3.100,3,125,5,2,Uberlândia,Presidente Roosevelt
+870,1,40,0,1,Uberlândia,Santa Mônica
+3.500,3,243,3,4,Uberlândia,Tubalina
+1.450,3,100,1,1,Uberlândia,Laranjeiras
+3.800,5,180,0,1,Uberlândia,Santa Mônica
+2.000,2,90,5,1,Uberlândia,Jardim Colina
+3.000,4,180,3,3,Uberlândia,Umuarama
+3.500,3,200,5,3,Uberlândia,Lídice
+3.400,3,140,4,2,Uberlândia,Cidade Jardim
+3.300,3,109,2,2,Uberlândia,Pampulha
+1.700,2,69,2,1,Uberlândia,Segismundo Pereira
+4.000,4,106,2,5,Uberlândia,Jardim Karaíba
+1.490,3,117,1,1,Uberlândia,Bom Jesus
+3.000,3,250,3,4,Uberlândia,Nossa Senhora Aparecida
+5.500,3,185,3,1,Uberlândia,Vigilato Pereira
+4.500,3,218,3,2,Uberlândia,Segismundo Pereira
+4.200,4,260,4,3,Uberlândia,Segismundo Pereira
+3.600,3,151,2,3,Uberlândia,Tubalina
+1.500,3,100,2,2,Uberlândia,Presidente Roosevelt
+6.000,3,290,2,4,Uberlândia,Jardim Europa
+12.000,3,200,3,5,Uberlândia,Jardim Karaíba
+9.500,1,306,0,3,Uberlândia,Fundinho
+3.800,4,250,3,3,Uberlândia,Santa Mônica
+750,1,46,1,1,Uberlândia,Martins
+5.500,3,452,4,5,Uberlândia,Cidade Jardim
+1.550,2,90,1,2,Uberlândia,Nova Uberlândia
+2.000,2,90,0,1,Uberlândia,Jardim Colina
+6.000,4,270,2,1,Uberlândia,Cazeca
+11.000,3,347,4,1,Uberlândia,Jardim Karaíba
+2.700,3,90,2,2,Uberlândia,Martins
+5.200,3,380,5,3,Uberlândia,Saraiva
+3.800,5,600,4,4,Uberlândia,Santa Mônica
+4.000,4,180,4,3,Uberlândia,Daniel Fonseca
+600,2,50,0,1,Uberlândia,Martins
+1.500,3,80,3,1,Uberlândia,Osvaldo Rezende
+1.290,2,70,0,2,Uberlândia,Cidade Jardim
+2.900,4,160,1,2,Uberlândia,Bom Jesus
+5.500,4,280,3,5,Uberlândia,Tabajaras
+3.800,5,240,4,4,Uberlândia,Santa Mônica
+3.500,3,160,2,2,Uberlândia,Cidade Jardim
+3.000,3,150,0,3,Uberlândia,Fundinho
+6.000,4,200,3,4,Uberlândia,Jardim Europa
+1.850,3,182,1,1,Uberlândia,Martins
+1.200,3,,1,1,Uberlândia,Osvaldo Rezende
+1.800,2,140,2,1,Uberlândia,Nossa Senhora das Graças
+2.500,3,180,5,2,Uberlândia,Jardim Brasília
+14.300,3,213,2,4,Uberlândia,Granja Marileusa
+3.500,3,198,2,2,Uberlândia,Bosque dos Buritis
+4.500,3,193,2,3,Uberlândia,Custódio Pereira
+3.000,3,180,2,2,Uberlândia,Brasil
+4.500,4,350,2,5,Uberlândia,Umuarama
+5.000,5,285,2,4,Uberlândia,Jardim Patrícia
+14.500,4,347,3,5,Uberlândia,Gávea
+8.000,3,262,4,3,Uberlândia,Jardim Karaíba
+2.100,3,120,4,3,Uberlândia,Jardim das Palmeiras
+15.500,4,480,2,5,Uberlândia,Morada da Colina
+4.500,3,400,2,2,Uberlândia,Nossa Senhora das Graças
+1.700,3,130,1,1,Uberlândia,Tibery
+4.000,5,320,2,4,Uberlândia,Brasil
+3.500,1,160,3,2,Uberlândia,Nossa Senhora Aparecida
+4.000,3,212,1,1,Uberlândia,Nossa Senhora Aparecida
+3.500,3,165,3,2,Uberlândia,Centro
+6.500,4,250,1,2,Uberlândia,Nossa Senhora Aparecida
+4.200,3,216,4,3,Uberlândia,Saraiva
+18.000,4,554,0,4,Uberlândia,Jardim Karaíba
+5.000,3,380,3,1,Uberlândia,Brasil
+6.000,4,297,4,2,Uberlândia,Saraiva
+3.500,3,195,3,2,Uberlândia,Jardim Patrícia
+1.350,3,90,3,2,Uberlândia,Brasil
+3.000,3,90,2,2,Uberlândia,Bosque dos Buritis
+1.800,3,180,4,2,Uberlândia,Nova Uberlândia
+4.000,3,160,3,2,Uberlândia,Jardim Patrícia
+3.500,2,140,2,1,Uberlândia,Saraiva
+8.000,4,400,2,4,Uberlândia,Vigilato Pereira
+13.000,4,423,3,4,Uberlândia,Morada da Colina
+2.500,4,150,0,3,Uberlândia,Fundinho
+2.200,3,120,2,2,Uberlândia,Tibery
+3.100,3,218,2,3,Uberlândia,Tabajaras
+1.200,2,60,0,1,Uberlândia,Centro
+5.800,4,500,4,4,Uberlândia,Presidente Roosevelt
+7.000,5,280,3,4,Uberlândia,Vigilato Pereira
+1.900,2,100,2,1,Uberlândia,Nossa Senhora das Graças
+2.000,3,103,0,1,Uberlândia,Fundinho
+11.000,4,396,2,5,Uberlândia,Nova Uberlândia
+20.000,5,350,3,5,Uberlândia,Gávea
+2.800,5,200,2,3,Uberlândia,Martins
+1.600,2,105,1,1,Uberlândia,Centro
+2.100,2,80,2,1,Uberlândia,Jardim Colina
+2.700,2,80,2,1,Uberlândia,Cidade Jardim
+3.600,3,200,4,3,Uberlândia,Santa Mônica
+10.000,3,275,4,4,Uberlândia,Morada da Colina
+1.800,3,120,3,2,Uberlândia,Santa Mônica
+2.200,2,90,4,2,Uberlândia,Tibery
+4.000,3,320,3,2,Uberlândia,Osvaldo Rezende
+4.200,3,180,1,2,Uberlândia,Osvaldo Rezende
+6.000,4,270,4,3,Uberlândia,Jardim Karaíba
+9.800,5,500,5,5,Uberlândia,Cidade Jardim
+10.000,5,328,2,5,Uberlândia,Bosque dos Buritis
+6.000,5,300,4,3,Uberlândia,Martins
+4.800,3,250,3,3,Uberlândia,Jardim Inconfidência
+5.500,3,200,2,3,Uberlândia,Nova Uberlândia
+10.000,5,650,5,4,Uberlândia,Umuarama
+4.900,3,233,4,3,Uberlândia,Cidade Jardim
+12.000,4,400,3,4,Uberlândia,Cidade Jardim
+3.500,3,230,2,3,Uberlândia,Cidade Jardim
+9.000,5,213,2,3,Uberlândia,Tabajaras
+4.000,3,200,5,3,Uberlândia,Tubalina
+4.000,3,219,3,3,Uberlândia,Segismundo Pereira
+8.500,3,200,3,4,Uberlândia,Grand Ville
+8.500,4,350,4,4,Uberlândia,Vigilato Pereira
+4.500,3,196,4,2,Uberlândia,Cidade Jardim
+1.450,3,250,1,1,Uberlândia,Brasil
+3.200,4,270,3,1,Uberlândia,Centro
+5.000,5,347,0,5,Uberlândia,Nossa Senhora Aparecida
+3.700,5,200,5,3,Uberlândia,Saraiva
+6.000,3,200,2,2,Uberlândia,Umuarama
+3.700,3,260,2,3,Uberlândia,Santa Mônica
+1.400,4,100,1,2,Uberlândia,Lídice
+5.000,3,195,3,3,Uberlândia,Jardim Patrícia
+3.700,3,330,2,1,Uberlândia,Vigilato Pereira
+3.000,3,220,3,2,Uberlândia,Jardim Patrícia
+14.000,4,410,2,5,Uberlândia,Nova Uberlândia
+6.000,3,427,5,1,Uberlândia,Jardim Inconfidência
+5.500,3,200,2,2,Uberlândia,Santa Mônica
+4.500,5,270,2,2,Uberlândia,Vigilato Pereira
+2.300,4,89,2,2,Uberlândia,Segismundo Pereira
+3.800,4,450,4,1,Uberlândia,Jardim Inconfidência
+5.500,3,290,2,5,Uberlândia,Cidade Jardim
+10.000,4,450,5,3,Uberlândia,Tibery
+6.000,4,260,3,4,Uberlândia,Presidente Roosevelt
+12.000,4,200,0,4,Uberlândia,Osvaldo Rezende
+3.000,4,133,1,1,Uberlândia,Martins
+4.800,3,160,2,3,Uberlândia,Cidade Jardim
+3.300,3,190,2,4,Uberlândia,Santa Rosa
+3.600,5,283,5,4,Uberlândia,Cidade Jardim
+1.500,3,120,1,2,Uberlândia,Osvaldo Rezende
+2.500,4,118,2,3,Uberlândia,Martins
+8.000,3,400,5,2,Uberlândia,Fundinho
+1.300,3,110,1,2,Uberlândia,Osvaldo Rezende
+3.300,3,200,3,3,Uberlândia,Santa Luzia
+12.000,3,299,0,1,Uberlândia,Nossa Senhora Aparecida
+1.800,2,80,1,2,Uberlândia,Martins
+2.500,3,110,1,2,Uberlândia,Santa Mônica
+2.800,3,150,3,2,Uberlândia,Brasil
+3.200,3,200,2,3,Uberlândia,Jardim Europa
+3.700,3,200,5,1,Uberlândia,Santa Mônica
+2.500,2,600,5,2,Uberlândia,Martins
+15.000,4,480,5,2,Uberlândia,Cidade Jardim
+3.800,4,200,3,3,Uberlândia,Nossa Senhora Aparecida
+10.500,3,312,0,2,Uberlândia,Jardim Karaíba
+6.800,4,450,4,2,Uberlândia,Cazeca
+6.500,4,400,4,4,Uberlândia,Tabajaras
+2.980,3,150,4,2,Uberlândia,Martins
+7.000,5,300,5,5,Uberlândia,Saraiva
+11.000,4,367,4,5,Uberlândia,Jardim Karaíba
+4.500,3,360,2,3,Uberlândia,Cidade Jardim
+10.000,5,450,2,4,Uberlândia,Morada da Colina
+5.500,3,260,2,4,Uberlândia,Cidade Jardim
+7.000,4,255,5,2,Uberlândia,Fundinho
+4.000,4,350,3,1,Uberlândia,Fundinho
+1.700,2,120,2,1,Uberlândia,Nossa Senhora Aparecida
+1.700,4,100,1,2,Uberlândia,Nossa Senhora Aparecida
+4.000,4,229,2,2,Uberlândia,Santa Luzia
+2.350,3,190,2,1,Uberlândia,Nossa Senhora Aparecida
+10.000,5,261,3,3,Uberlândia,Santa Mônica
+4.300,3,200,3,2,Uberlândia,Custódio Pereira
+12.000,3,300,3,5,Uberlândia,Nova Uberlândia
+4.000,3,308,2,3,Uberlândia,Osvaldo Rezende
+9.000,3,300,2,4,Uberlândia,Morada da Colina
+4.800,4,240,2,2,Uberlândia,Presidente Roosevelt
+16.000,4,400,4,5,Uberlândia,Morada da Colina
+5.000,3,300,4,3,Uberlândia,Osvaldo Rezende
+3.300,3,210,5,3,Uberlândia,Santa Mônica
+1.300,3,136,0,2,Uberlândia,Brasil
+2.350,3,190,2,1,Uberlândia,Santa Mônica
+2.300,4,108,1,1,Uberlândia,Fundinho
+5.000,1,402,3,1,Uberlândia,Umuarama
+30.000,4,500,4,1,Uberlândia,Morada da Colina
+1.500,3,80,2,1,Uberlândia,Centro
+7.000,3,280,4,4,Uberlândia,Cidade Jardim
+5.500,3,300,4,1,Uberlândia,Cidade Jardim
+3.500,3,198,2,3,Uberlândia,Bosque dos Buritis
+20.000,4,600,4,3,Uberlândia,Morada da Colina
+6.000,3,170,3,2,Uberlândia,Brasil
+2.900,5,45,3,2,Uberlândia,Lídice
+12.000,2,260,3,5,Uberlândia,Gávea
+3.500,4,171,3,2,Uberlândia,Centro
+2.300,4,100,4,2,Uberlândia,São Jorge
+7.500,4,240,2,4,Uberlândia,Bosque dos Buritis
+14.000,3,230,2,5,Uberlândia,Granja Marileusa
+6.000,3,390,3,3,Uberlândia,Cidade Jardim
+13.000,3,240,3,4,Uberlândia,Jardim Botânico
+4.700,4,234,3,2,Uberlândia,Fundinho
+4.700,4,234,3,2,Uberlândia,Fundinho
+3.300,3,170,2,2,Uberlândia,Santa Mônica
+5.500,5,455,2,5,Uberlândia,Santa Mônica
+4.000,3,239,3,2,Uberlândia,Alto Umuarama
+3.300,4,270,2,3,Uberlândia,Cidade Jardim
+3.400,3,170,2,2,Uberlândia,Jardim Patrícia
+5.000,4,220,5,3,Uberlândia,Jardim Inconfidência
+9.000,3,350,2,5,Uberlândia,Bom Jesus
+10.000,5,600,5,5,Uberlândia,Tocantins
+3.500,3,210,2,3,Uberlândia,Custódio Pereira
+3.200,4,289,5,3,Uberlândia,Saraiva
+12.000,3,600,5,5,Uberlândia,Morada da Colina
+5.800,4,300,4,5,Uberlândia,Morada da Colina
+8.500,4,365,4,5,Uberlândia,Jardim Colina
+9.000,5,900,5,5,Uberlândia,Mansões Aeroporto
+2.900,3,170,4,2,Uberlândia,Presidente Roosevelt
+6.500,5,175,0,5,Uberlândia,Tabajaras
+15.000,4,458,5,4,Uberlândia,Jardim Karaíba
+10.000,4,401,4,1,Uberlândia,Jardim Inconfidência
+6.500,5,320,2,2,Uberlândia,Osvaldo Rezende
+10.000,4,350,4,4,Uberlândia,Nova Uberlândia
+5.500,4,261,2,5,Uberlândia,Osvaldo Rezende
+4.500,4,147,5,3,Uberlândia,Santa Mônica
+4.200,3,220,5,3,Uberlândia,Jardim Colina
+1.850,2,90,1,2,Uberlândia,Saraiva
+3.500,3,95,2,2,Uberlândia,Morada da Colina
+2.000,3,200,5,2,Uberlândia,Brasil
+5.500,3,200,3,2,Uberlândia,Luizote de Freitas
+15.000,1,370,5,2,Uberlândia,Vigilato Pereira
+9.000,4,500,4,5,Uberlândia,Cidade Jardim
+3.500,4,140,2,1,Uberlândia,Martins
+7.100,2,380,5,3,Uberlândia,Vigilato Pereira
+7.000,4,200,2,2,Uberlândia,Santa Mônica
+7.500,3,200,3,4,Uberlândia,Grand Ville
+15.000,3,270,2,4,Uberlândia,Nova Uberlândia
+14.000,5,570,5,1,Uberlândia,Tocantins
+4.800,3,235,4,2,Uberlândia,Brasil
+14.000,4,500,4,5,Uberlândia,Jardim Karaíba
+6.500,5,96,4,5,Uberlândia,Presidente Roosevelt
+4.300,5,360,4,2,Uberlândia,Tabajaras
+7.800,4,482,5,3,Uberlândia,Lídice
+4.500,4,283,3,3,Uberlândia,Fundinho
+1.700,3,100,0,1,Uberlândia,Santa Mônica
+6.500,3,215,1,3,Uberlândia,Jardim Colina
+4.500,3,286,4,1,Uberlândia,Brasil
+15.000,4,581,4,5,Uberlândia,Cidade Jardim
+2.500,3,154,4,2,Uberlândia,Presidente Roosevelt
+5.400,3,250,5,4,Uberlândia,Jardim Inconfidência
+1.200,2,60,1,1,Uberlândia,Daniel Fonseca
+3.400,3,140,1,1,Uberlândia,Santa Mônica
+12.000,4,320,4,5,Uberlândia,Jardim Karaíba
+2.800,3,140,4,2,Uberlândia,Brasil
+3.800,3,280,2,2,Uberlândia,Bom Jesus
+4.000,4,292,4,4,Uberlândia,Umuarama
+12.000,4,380,5,5,Uberlândia,Nova Uberlândia
+3.000,2,100,2,3,Uberlândia,Marta Helena
+7.500,3,270,5,5,Uberlândia,Santa Mônica
+7.500,3,325,4,4,Uberlândia,Morada da Colina
+9.800,3,290,2,4,Uberlândia,Bosque dos Buritis
+1.350,3,80,3,1,Uberlândia,Custódio Pereira
+1.200,2,68,2,1,Uberlândia,Taiaman
+1.200,3,70,2,1,Uberlândia,Pacaembu
+2.800,3,200,3,2,Uberlândia,Brasil
+1.800,3,70,1,1,Uberlândia,Saraiva
+800,3,60,3,1,Uberlândia,Jardim das Palmeiras
+1.200,2,90,0,2,Uberlândia,Tibery
+1.500,3,96,2,1,Uberlândia,Osvaldo Rezende
+1.600,3,130,2,2,Uberlândia,Martins
+1.250,1,,0,1,Uberlândia,Vila Satélite
+7.800,4,10,5,3,Uberlândia,Lídice
+15.000,4,10,5,5,Uberlândia,Nova Uberlândia
+12.000,4,10,4,4,Uberlândia,Morada da Colina
+6.000,2,163,3,1,Uberlândia,Vigilato Pereira
+18.000,3,10,5,5,Uberlândia,Cidade Jardim
+5.500,4,10,4,1,Uberlândia,Tabajaras
+7.500,3,10,4,4,Uberlândia,Morada da Colina
+4.000,3,105,2,3,Uberlândia,Pampulha
+25.000,4,10,5,5,Uberlândia,Morada da Colina
+14.000,5,10,5,5,Uberlândia,Morada da Colina
+5.800,4,260,4,5,Uberlândia,Morada da Colina
+7.700,3,262,4,3,Uberlândia,Jardim Karaíba
+2.800,3,289,4,3,Uberlândia,Brasil
+800,2,70,2,1,Uberlândia,Luizote de Freitas
+27.000,5,1000,5,5,Uberlândia,Cidade Jardim
+550,1,30,0,1,Uberlândia,Santa Mônica
+15.000,4,581,4,5,Uberlândia,Cidade Jardim
+4.000,5,270,2,3,Uberlândia,Jaraguá
+5.500,4,202,2,4,Uberlândia,Tabajaras
+3.500,1,110,2,1,Uberlândia,Centro
+27.000,5,1000,5,5,Uberlândia,Cidade Jardim
+10.500,3,360,2,4,Uberlândia,Jardim Botânico
+7.500,4,270,2,5,Uberlândia,Jardim das Palmeiras
+11.000,4,380,3,5,Uberlândia,Nova Uberlândia
+11.000,4,380,3,5,Uberlândia,Nova Uberlândia
+27.000,5,1000,5,3,Uberlândia,Cidade Jardim
+5.800,3,170,4,3,Uberlândia,Cidade Jardim
+4.900,3,233,4,3,Uberlândia,Cidade Jardim
+1.800,3,163,3,2,Uberlândia,Daniel Fonseca
+1.800,3,110,2,2,Uberlândia,Martins
+3.500,3,230,2,2,Uberlândia,Nossa Senhora Aparecida
+3.300,3,270,2,3,Uberlândia,Cidade Jardim
+14.000,3,232,2,4,Uberlândia,Granja Marileusa
+6.000,4,370,4,4,Uberlândia,Lídice
+5.000,5,190,1,5,Uberlândia,Luizote de Freitas
+2.500,3,143,3,2,Uberlândia,Umuarama
+790,2,42,1,1,Uberlândia,Tibery
+1.200,3,100,1,1,Uberlândia,Bom Jesus
+3.000,3,142,2,2,Uberlândia,Santa Mônica
+5.500,3,452,4,5,Uberlândia,Cidade Jardim
+7.000,3,452,4,5,Uberlândia,Cidade Jardim
+9.000,3,197,2,5,Uberlândia,Jardim Botânico
+20.000,5,370,5,5,Uberlândia,Osvaldo Rezende
+15.000,4,410,5,5,Uberlândia,Nova Uberlândia
+2.500,3,154,4,2,Uberlândia,Presidente Roosevelt
+2.900,3,181,3,3,Uberlândia,Brasil
+900,2,70,1,1,Uberlândia,Nossa Senhora Aparecida
+950,2,60,0,1,Uberlândia,Martins
+2.000,2,130,2,1,Uberlândia,Nossa Senhora Aparecida
+12.000,1,299,0,2,Uberlândia,Nossa Senhora Aparecida
+1.850,2,90,1,2,Uberlândia,Saraiva
+3.400,3,150,3,2,Uberlândia,Segismundo Pereira
+2.500,3,160,1,3,Uberlândia,Taiaman
+2.100,2,116,2,1,Uberlândia,Lídice
+1.500,3,190,0,1,Uberlândia,Luizote de Freitas
+3.500,3,150,1,4,Uberlândia,Lídice
+15.000,3,270,4,4,Uberlândia,Jardim Sul
+2.800,3,170,4,3,Uberlândia,Granada
+8.500,3,245,3,4,Uberlândia,Jardim Inconfidência
+3.800,3,180,2,2,Uberlândia,Patrimônio
+5.500,3,452,4,5,Uberlândia,Cidade Jardim
+9.000,3,197,2,5,Uberlândia,Jardim Botânico
+4.500,3,300,3,3,Uberlândia,Segismundo Pereira
+7.000,4,200,3,4,Uberlândia,Umuarama
+1.800,1,91,1,1,Uberlândia,Jardim Brasília
+1.000,2,75,1,1,Uberlândia,Martins
+930,3,60,0,1,Uberlândia,Marta Helena
+3.500,3,130,2,3,Uberlândia,Osvaldo Rezende
+6.500,4,279,4,2,Uberlândia,Jardim Karaíba
+1.900,3,150,1,3,Uberlândia,Osvaldo Rezende
+5.500,4,452,3,4,Uberlândia,Cidade Jardim
+10.000,4,350,2,1,Uberlândia,Nova Uberlândia
+15.000,3,216,4,2,Uberlândia,Jardim Sul
+3.500.000,3,110,2,3,Uberlândia,Pampulha
+4.400,3,230,3,2,Uberlândia,Bom Jesus
+700,2,40,1,1,Uberlândia,Custódio Pereira
+4.500,3,238,4,5,Uberlândia,Cidade Jardim
+3.100,4,305,5,3,Uberlândia,Presidente Roosevelt
+12.000,1,299,0,1,Uberlândia,Nossa Senhora Aparecida
+2.300,2,75,0,2,Uberlândia,Fundinho
+650,1,,0,1,Uberlândia,Jardim Canaã
+2.300,3,100,3,3,Uberlândia,Chácaras Tubalina e Quartel
+7.000,4,230,2,2,Uberlândia,Jardim Karaíba
+1.250,2,53,1,1,Uberlândia,Nossa Senhora das Graças
+15.000,3,216,4,4,Uberlândia,Jardim Sul
+8.500,1,260,0,2,Uberlândia,Lídice
+10.000,3,200,3,4,Uberlândia,Osvaldo Rezende
+15.000,3,270,4,4,Uberlândia,Jardim Sul
+750,2,45,0,1,Uberlândia,Brasil
+4.800,3,112,4,1,Uberlândia,Alto Umuarama
+3.800,3,200,5,2,Uberlândia,Santa Mônica
+3.500,3,90,2,1,Uberlândia,Bosque dos Buritis
+5.500,4,262,3,4,Uberlândia,Cidade Jardim
+2.000,3,103,0,2,Uberlândia,Fundinho
+4.500,5,264,5,3,Uberlândia,Santa Mônica
+3.500,5,188,0,3,Uberlândia,Nossa Senhora Aparecida
+800,2,60,0,1,Uberlândia,Nossa Senhora Aparecida
+6.000,3,390,3,2,Uberlândia,Cidade Jardim
+2.700,3,173,1,2,Uberlândia,Martins
+12.000,3,225,2,5,Uberlândia,Jardim Botânico
+2.000,3,110,0,1,Uberlândia,Fundinho
+5.400,3,220,3,3,Uberlândia,Jardim Inconfidência
+8.500,3,352,4,5,Uberlândia,Vigilato Pereira
+3.200,3,81,2,3,Uberlândia,Bosque dos Buritis
+4.200,3,160,2,3,Uberlândia,Jardim Sul
+7.500,3,260,3,5,Uberlândia,Jardim Inconfidência
+1.100,3,60,1,1,Uberlândia,Osvaldo Rezende
+1.600,2,80,1,1,Uberlândia,Centro
+2.800,4,100,0,2,Uberlândia,Martins
+4.200,3,215,4,4,Uberlândia,Saraiva
+1.600,2,70,1,1,Uberlândia,Martins
+4.500,3,193,2,3,Uberlândia,Custódio Pereira
+6.000,3,220,0,2,Uberlândia,Brasil
+6.000,3,250,0,2,Uberlândia,Bosque dos Buritis
+8.500,5,460,4,5,Uberlândia,Fundinho
+2.900,3,185,3,4,Uberlândia,Nossa Senhora Aparecida
+15.000,4,581,5,4,Uberlândia,Cidade Jardim
+6.900,4,230,4,,Uberlândia,Vigilato Pereira
+2.000,3,200,1,1,Uberlândia,Granada
+2.300,3,170,2,1,Uberlândia,Tubalina
+7.000,4,390,2,2,Uberlândia,Cidade Jardim
+4.500,3,193,2,2,Uberlândia,Custódio Pereira
+1.100,3,76,2,1,Uberlândia,Martins
+4.500,4,280,0,2,Uberlândia,Jardim Patrícia
+8.500,5,300,5,3,Uberlândia,Lídice
+15.000,3,270,4,4,Uberlândia,Jardim Sul
+2.000,4,96,4,3,Uberlândia,Lagoinha
+6.700,3,177,2,3,Uberlândia,Bosque dos Buritis
+9.000,3,250,3,2,Uberlândia,Grand Ville
+9.000,4,300,3,2,Uberlândia,Grand Ville
+600,2,,0,1,Uberlândia,Residencial Integração
+12.000,5,10,5,3,Uberlândia,Morada da Colina
+4.500,4,330,2,4,Uberlândia,Umuarama
+9.999,5,460,4,5,Uberlândia,Tabajaras
+4.500,5,180,1,3,Uberlândia,Fundinho
+6.000,2,163,3,1,Uberlândia,Vigilato Pereira
+500,1,,0,1,Uberlândia,Santa Mônica
+11.000,5,200,2,3,Uberlândia,Centro
+5.500,5,452,3,2,Uberlândia,Cidade Jardim
+1.500,3,120,2,2,Uberlândia,Osvaldo Rezende
+4.300,3,280,2,3,Uberlândia,Custódio Pereira
+1.600,2,65,1,1,Uberlândia,Nossa Senhora Aparecida
+3.200,3,120,2,2,Uberlândia,Nossa Senhora Aparecida
+1.700,2,60,1,1,Uberlândia,Santa Mônica
+2.800,3,140,2,2,Uberlândia,Osvaldo Rezende
+4.500,3,300,0,2,Uberlândia,Brasil
+2.000,2,150,2,2,Uberlândia,Martins
+3.000,3,177,2,2,Uberlândia,Centro
+2.500,4,287,5,3,Uberlândia,Jardim Brasília
+7.000,3,211,2,4,Uberlândia,Jardim Botânico
+4.300,3,250,3,2,Uberlândia,Custódio Pereira
+6.500,5,323,2,2,Uberlândia,Santa Mônica
+5.000,4,225,3,4,Uberlândia,Cazeca
+20.000,5,450,5,5,Uberlândia,Lídice
+3.500,4,300,2,4,Uberlândia,Nossa Senhora Aparecida
+3.000,3,189,2,2,Uberlândia,Santa Mônica
+5.600,3,240,3,2,Uberlândia,Bosque dos Buritis
+2.500,3,122,2,2,Uberlândia,Osvaldo Rezende
+5.800,3,260,2,3,Uberlândia,Cidade Jardim
+2.600,3,126,2,2,Uberlândia,Cidade Jardim
+1.500,3,130,1,1,Uberlândia,Daniel Fonseca
+22.000,5,521,4,5,Uberlândia,Jardim Karaíba
+1.250,2,60,1,1,Uberlândia,Presidente Roosevelt
+800,2,55,0,1,Uberlândia,Planalto
+,2,65,3,1,Uberlândia,Jardim Brasília
+4.500,4,300,3,1,Uberlândia,Umuarama
+2.900,4,170,1,1,Uberlândia,Nossa Senhora Aparecida
+700,2,,0,1,Uberlândia,Luizote de Freitas
+5.000,3,350,0,1,Uberlândia,Fundinho
+2.350,3,189,3,2,Uberlândia,Nossa Senhora Aparecida
+15.000,3,350,4,4,Uberlândia,Morada da Colina
+14.500,4,347,3,2,Uberlândia,Gávea
+4.000,3,170,2,3,Uberlândia,Saraiva
+3.800,3,130,2,2,Uberlândia,Jardim Inconfidência
+2.800,4,120,2,3,Uberlândia,Santa Mônica
+5.500,3,200,2,2,Uberlândia,Santa Mônica
+2.000,3,180,5,2,Uberlândia,Santa Mônica
+3.500,4,290,4,4,Uberlândia,Umuarama
+11.000,4,450,0,4,Uberlândia,Morada da Colina
+2.500,4,167,2,2,Uberlândia,Brasil
+4.000,3,200,0,2,Uberlândia,Saraiva
+1.360,3,70,1,1,Uberlândia,Nossa Senhora Aparecida
+15.000,5,430,5,4,Uberlândia,Tabajaras
+2.300,3,180,4,2,Uberlândia,Nossa Senhora Aparecida
+3.800,3,150,2,2,Uberlândia,Bosque dos Buritis
+4.500,5,360,5,5,Uberlândia,Vigilato Pereira
+3.000,3,140,2,2,Uberlândia,Martins
+2.700,2,100,0,3,Uberlândia,Minas Gerais
+3.800,3,174,4,3,Uberlândia,Novo Mundo
+3.800,3,257,1,3,Uberlândia,Santa Mônica
+3.800,3,81,1,3,Uberlândia,Bosque dos Buritis
+2.000,3,89,0,2,Uberlândia,Santa Mônica
+12.000,3,280,2,4,Uberlândia,Fundinho
+7.500,4,280,4,4,Uberlândia,Jardim Karaíba
+3.000,4,190,1,2,Uberlândia,Centro
+12.000,1,280,0,4,Uberlândia,Nossa Senhora Aparecida
+5.600,3,240,3,3,Uberlândia,Bosque dos Buritis
+5.100,4,180,0,2,Uberlândia,Martins
+4.500,3,240,3,2,Uberlândia,Bosque dos Buritis
+10.000,4,350,2,5,Uberlândia,Nova Uberlândia
+10.000,4,350,2,5,Uberlândia,Nova Uberlândia
+4.500,3,240,2,3,Uberlândia,Bosque dos Buritis
+9.000,5,340,2,5,Uberlândia,Jardim Inconfidência
+15.000,3,220,2,5,Uberlândia,Jardim Sul
+4.500,3,220,3,4,Uberlândia,Dona Zulmira
+6.000,5,280,3,2,Uberlândia,Osvaldo Rezende
+10.000,4,350,2,5,Uberlândia,Nova Uberlândia
+1.800,3,120,1,2,Uberlândia,Santa Mônica
+2.600,3,180,1,1,Uberlândia,Lídice
+900,1,85,1,1,Uberlândia,São José
+3.500,3,80,2,3,Uberlândia,Brasil
+14.000,3,266,4,4,Uberlândia,Nova Uberlândia
+2.950,3,140,2,2,Uberlândia,Nossa Senhora Aparecida
+4.500,3,300,0,1,Uberlândia,Santa Mônica
+12.000,4,10,4,4,Uberlândia,Granja Marileusa
+13.000,4,10,2,4,Uberlândia,Nova Uberlândia
+2.000,1,10,1,2,Uberlândia,Morada da Colina
+1.335,3,10,2,1,Uberlândia,Patrimônio
+5.500,3,10,3,4,Uberlândia,Vigilato Pereira
+4.500,4,10,3,3,Uberlândia,Minas Gerais
+12.000,4,315,2,3,Uberlândia,Fundinho
+12.000,4,315,2,3,Uberlândia,Fundinho
+,1,,0,1,Uberlândia,Lídice
+5.300,3,255,4,3,Uberlândia,Alto Umuarama
+6.500,3,220,2,3,Uberlândia,Jardim Colina
+12.000,4,380,3,5,Uberlândia,Nova Uberlândia
+700,2,42,0,1,Uberlândia,Guarani
+12.000,3,280,2,2,Uberlândia,Fundinho
+3.800,3,115,2,3,Uberlândia,Jardim Inconfidência
+4.950,3,160,2,2,Uberlândia,Jardim Inconfidência
+1.250,2,45,1,1,Uberlândia,Martins
+2.200,3,162,1,2,Uberlândia,Segismundo Pereira
+6.000,3,300,2,3,Uberlândia,Osvaldo Rezende
+4.500,3,300,4,4,Uberlândia,Dona Zulmira
+1.000,1,35,0,1,Uberlândia,Centro
+2.800,3,82,1,1,Uberlândia,Bosque dos Buritis
+2.800,3,82,1,1,Uberlândia,Bosque dos Buritis
+13.000,3,260,2,2,Uberlândia,Nova Uberlândia
+3.200,1,136,0,4,Uberlândia,Lídice
+1.650,2,80,0,3,Uberlândia,Brasil
+8.000,4,291,4,4,Uberlândia,Santa Mônica
+1.100,3,80,1,1,Uberlândia,Nossa Senhora Aparecida
+7.800,1,270,1,2,Uberlândia,Daniel Fonseca
+3.500,3,81,0,2,Uberlândia,Bosque dos Buritis
+3.000,3,250,2,3,Uberlândia,Santa Mônica
+2.900,3,170,4,2,Uberlândia,Presidente Roosevelt
+10.000,3,330,2,5,Uberlândia,Vigilato Pereira
+4.500,5,195,4,2,Uberlândia,Cidade Jardim
+12.000,4,450,2,2,Uberlândia,Morada da Colina
+14.000,4,315,5,5,Uberlândia,Morada da Colina
+3.500,3,202,2,3,Uberlândia,Bosque dos Buritis
+3.400,3,10,1,2,Uberlândia,Alto Umuarama
+12.000,3,280,2,2,Uberlândia,Fundinho
+5.600,3,280,2,1,Uberlândia,Lídice
+4.500,4,260,0,1,Uberlândia,Daniel Fonseca
+4.500,4,195,3,4,Uberlândia,Cidade Jardim
+4.000,3,235,4,1,Uberlândia,Tubalina
+2.500,4,170,2,4,Uberlândia,Lídice
+19.400,4,256,4,5,Uberlândia,Nova Uberlândia
+2.300,4,130,2,3,Uberlândia,Martins
+2.800,3,140,2,1,Uberlândia,Jardim Europa
+3.000,3,170,2,3,Uberlândia,Martins
+12.000,3,280,2,5,Uberlândia,Fundinho
+3.000,3,189,3,2,Uberlândia,Santa Mônica
+12.000,3,280,2,1,Uberlândia,Fundinho
+1.800,1,120,1,1,Uberlândia,Nossa Senhora Aparecida
+12.000,3,320,2,3,Uberlândia,Fundinho
+11.000,4,255,4,5,Uberlândia,Nova Uberlândia
+3.000,2,78,2,2,Uberlândia,Cidade Jardim
+12.000,4,315,2,3,Uberlândia,Fundinho
+12.000,3,180,2,3,Uberlândia,Fundinho
+3.500,4,250,3,3,Uberlândia,Umuarama
+2.800,3,166,3,3,Uberlândia,Jardim Europa
+1.900,2,53,1,2,Uberlândia,Santa Rosa
+1.150,2,65,1,1,Uberlândia,Presidente Roosevelt
+13.000,3,10,4,1,Uberlândia,Nova Uberlândia
+1.700,4,100,1,1,Uberlândia,Nossa Senhora Aparecida
+4.000,2,235,4,2,Uberlândia,Tubalina
+2.800,3,140,5,2,Uberlândia,Brasil
+4.500,4,140,2,5,Uberlândia,Jardim Karaíba
+4.500,3,296,4,4,Uberlândia,Nossa Senhora Aparecida
+10.500,4,350,4,1,Uberlândia,Nova Uberlândia
+6.800,4,450,4,5,Uberlândia,Cazeca
+12.000,3,280,2,2,Uberlândia,Fundinho
+2.350,3,188,4,2,Uberlândia,Nossa Senhora Aparecida
+1.100,1,40,0,2,Uberlândia,Martins
+12.000,3,280,2,5,Uberlândia,Fundinho
+1.300,3,100,1,1,Uberlândia,Custódio Pereira
+5.000,1,250,2,2,Uberlândia,Fundinho
+1.800,4,150,2,3,Uberlândia,Martins
+4.950,3,220,2,3,Uberlândia,Jardim Inconfidência
+4.000,3,185,2,1,Uberlândia,Bosque dos Buritis
+6.000,4,270,4,3,Uberlândia,Jardim Karaíba
+1.900,3,110,1,2,Uberlândia,Martins
+6.400,4,243,4,4,Uberlândia,Jardim Karaíba
+4.500,3,196,4,5,Uberlândia,Cidade Jardim
+3.000,3,190,4,2,Uberlândia,Lídice
+2.600,3,190,2,3,Uberlândia,Jardim Patrícia
+8.000,4,297,2,4,Uberlândia,Grand Ville
+20.000,5,700,3,5,Uberlândia,Jardim Sul
+900,2,70,0,1,Uberlândia,Osvaldo Rezende
+5.300,3,225,2,3,Uberlândia,Alto Umuarama
+13.000,4,230,2,5,Uberlândia,Nova Uberlândia
+3.900,3,180,3,3,Uberlândia,Bosque dos Buritis
+9.000,5,700,4,1,Uberlândia,Morada da Colina
+18.000,5,680,2,5,Uberlândia,Cidade Jardim
+18.000,5,680,2,5,Uberlândia,Cidade Jardim
+4.000,4,292,4,4,Uberlândia,Umuarama
+20.000,5,700,3,5,Uberlândia,Jardim Sul
+1.800,2,100,3,2,Uberlândia,Morada dos Pássaros
+20.000,5,700,3,5,Uberlândia,Jardim Sul
+18.000,4,814,5,5,Uberlândia,Cidade Jardim
+13.000,4,366,3,5,Uberlândia,Jardim Karaíba
+12.000,4,600,5,4,Uberlândia,Morada da Colina
+5.500,3,160,2,2,Uberlândia,Jardim Inconfidência
+3.500,1,160,0,1,Uberlândia,Nossa Senhora Aparecida
+12.000,4,350,5,5,Uberlândia,Nova Uberlândia
+4.000,3,235,4,2,Uberlândia,Tubalina
+8.000,4,10,4,4,Uberlândia,Jardim Karaíba
+12.000,4,300,4,5,Uberlândia,Nova Uberlândia
+5.500,3,220,4,2,Uberlândia,Jardim Inconfidência
+4.800,4,250,2,2,Uberlândia,Presidente Roosevelt
+3.200,3,150,2,3,Uberlândia,Bosque dos Buritis
+15.000,4,582,4,5,Uberlândia,Cidade Jardim
+5.500,3,235,4,4,Uberlândia,Cidade Jardim
+6.000,4,474,4,4,Uberlândia,Tabajaras
+2.500,4,160,2,2,Uberlândia,Nossa Senhora Aparecida
+900,2,70,0,1,Uberlândia,Segismundo Pereira
+4.200,3,185,2,1,Uberlândia,Bosque dos Buritis
+8.000,4,270,4,1,Uberlândia,Jardim Karaíba
+6.500,3,220,2,2,Uberlândia,Jardim Colina
+4.200,3,185,3,2,Uberlândia,Bosque dos Buritis
+2.200,2,140,1,2,Uberlândia,Santa Mônica
+3.400,3,200,2,2,Uberlândia,Santa Mônica
+15.000,3,287,2,1,Uberlândia,Nova Uberlândia
+5.500,3,220,5,5,Uberlândia,Jardim Inconfidência
+2.000,4,100,1,2,Uberlândia,Tibery
+2.200,1,10,0,1,Uberlândia,Centro
+6.500,4,265,4,3,Uberlândia,Minas Gerais
+1.500,3,65,1,1,Uberlândia,Tibery
+1.130,2,80,2,3,Uberlândia,Santa Luzia
+5.400,3,130,2,3,Uberlândia,Jardim Karaíba
+1.200,2,60,1,1,Uberlândia,Planalto
+800,2,57,0,1,Uberlândia,Presidente Roosevelt
+3.800,5,98,5,5,Uberlândia,Saraiva
+950,2,44,1,2,Uberlândia,Jardim Brasília
+5.500,2,165,2,2,Uberlândia,Fundinho
+5.800,3,260,2,4,Uberlândia,Cidade Jardim
+1.800,3,130,1,2,Uberlândia,Martins
+4.400,3,230,2,3,Uberlândia,Jardim Patrícia
+1.150,2,45,1,1,Uberlândia,Martins
+4.200,3,185,2,2,Uberlândia,Bosque dos Buritis
+3.400,3,243,4,3,Uberlândia,Presidente Roosevelt
+29.000,4,450,0,5,Uberlândia,Morada da Colina
+1.800,3,105,2,3,Uberlândia,Martins
+6.000,3,340,3,3,Uberlândia,Tabajaras
+2.800,3,140,2,4,Uberlândia,Tibery
+2.300,2,130,4,1,Uberlândia,Morada da Colina
+2.300,2,100,4,2,Uberlândia,Morada da Colina
+3.700,3,200,3,2,Uberlândia,Jardim Europa
+2.300,2,90,2,2,Uberlândia,Jardim Inconfidência
+2.000,3,10,0,2,Uberlândia,Fundinho
+4.300,3,230,3,2,Uberlândia,Jardim Patrícia
+5.500,5,400,2,5,Uberlândia,Nossa Senhora Aparecida
+10.000,4,253,4,5,Uberlândia,Nova Uberlândia
+4.000,3,87,2,3,Uberlândia,Bosque dos Buritis
+3.300,4,200,2,4,Uberlândia,Cidade Jardim
+12.000,4,398,4,5,Uberlândia,Nova Uberlândia
+5.000,3,149,3,3,Uberlândia,Laranjeiras
+1.600,3,80,1,1,Uberlândia,Santa Mônica
+5.970,5,300,1,1,Uberlândia,Centro
+1.550,3,90,1,1,Uberlândia,Santa Mônica
+3.200,3,180,1,2,Uberlândia,Fundinho
+2.800,3,140,2,4,Uberlândia,Tibery
+4.000,3,200,1,4,Uberlândia,Planalto
+650,1,45,1,1,Uberlândia,Daniel Fonseca
+1.900,2,60,1,2,Uberlândia,Santa Rosa
+2.500,2,100,1,1,Uberlândia,Martins
+12.000,4,230,2,5,Uberlândia,Granja Marileusa
+3.800,4,243,4,4,Uberlândia,Tubalina
+5.500,4,300,3,4,Uberlândia,Osvaldo Rezende
+7.500,3,270,3,5,Uberlândia,Santa Mônica
+11.000,4,380,3,5,Uberlândia,Nova Uberlândia
+10.000,4,320,3,5,Uberlândia,Jardim Karaíba
+7.000,3,250,4,1,Uberlândia,Cidade Jardim
+4.200,5,296,3,5,Uberlândia,Nossa Senhora Aparecida
+12.500,4,10,5,3,Uberlândia,Nova Uberlândia
+1.900,1,110,2,3,Uberlândia,Martins
+10.000,4,320,3,5,Uberlândia,Jardim Inconfidência
+2.300,3,162,2,1,Uberlândia,Marta Helena
+8.000,3,262,4,3,Uberlândia,Jardim Karaíba
+13.000,4,366,4,5,Uberlândia,Jardim Karaíba
+20.000,3,600,5,5,Uberlândia,Morada da Colina
+3.000,3,120,2,2,Uberlândia,Segismundo Pereira
+850,2,54,1,1,Uberlândia,Santa Mônica
+2.200,3,222,2,2,Uberlândia,Osvaldo Rezende
+120.000,1,2625,0,5,Uberlândia,Santa Mônica
+4.500,3,240,4,2,Uberlândia,Jardim Inconfidência
+9.000,3,200,3,5,Uberlândia,Grand Ville
+11.000,3,250,2,4,Uberlândia,Gávea
+16.000,3,323,0,4,Uberlândia,Gávea
+5.900,3,452,3,3,Uberlândia,Cidade Jardim
+12.500,4,380,3,5,Uberlândia,Nova Uberlândia
+16.000,3,323,0,4,Uberlândia,Gávea
+11.000,3,250,2,4,Uberlândia,Gávea
+5.500,3,260,3,5,Uberlândia,Fundinho
+10.000,3,520,5,2,Uberlândia,Patrimônio
+14.000,3,10,4,4,Uberlândia,Nova Uberlândia
+7.500,3,500,2,4,Uberlândia,Jardim Karaíba
+13.700,3,440,4,5,Uberlândia,Jardim Botânico
+20.000,5,650,3,5,Uberlândia,Jardim Sul
+3.300,3,270,2,4,Uberlândia,Cidade Jardim
+5.500,3,235,3,5,Uberlândia,Cidade Jardim
+13.000,3,250,2,5,Uberlândia,Nova Uberlândia
+13.000,3,250,2,5,Uberlândia,Nova Uberlândia
+2.000,3,120,1,2,Uberlândia,Brasil
+8.000,3,255,3,2,Uberlândia,Jardim Karaíba
+20.000,3,600,5,5,Uberlândia,Patrimônio
+9.000,3,350,2,5,Uberlândia,Morada da Colina
+8.250,4,200,0,4,Uberlândia,Granja Marileusa
+1.700,2,60,1,2,Uberlândia,Santa Mônica
+2.000,2,80,4,1,Uberlândia,Santa Mônica
+6.000,4,233,3,2,Uberlândia,Jardim Karaíba
+2.200,2,100,2,1,Uberlândia,Morada da Colina
+7.800,4,482,5,5,Uberlândia,Tabajaras
+11.000,4,380,3,1,Uberlândia,Nova Uberlândia
+6.000,4,232,3,2,Uberlândia,Jardim Karaíba
+20.000,5,350,3,5,Uberlândia,Jardim Sul
+2.350,3,188,4,3,Uberlândia,Nossa Senhora Aparecida
+8.000,3,150,2,5,Uberlândia,Grand Ville
+8.000,3,262,3,2,Uberlândia,Jardim Karaíba
+2.300,2,130,2,2,Uberlândia,Jardim Europa
+15.000,4,697,5,5,Uberlândia,Cidade Jardim
+5.500,3,240,2,5,Uberlândia,Cidade Jardim
+13.000,3,250,2,5,Uberlândia,Nova Uberlândia
+3.500,3,177,2,3,Uberlândia,Segismundo Pereira
+2.000,2,60,4,1,Uberlândia,Santa Mônica
+8.000,3,220,2,3,Uberlândia,Jardim Karaíba
+6.000,3,200,2,1,Uberlândia,Aclimação
+8.500,5,260,0,4,Uberlândia,Lídice
+2.000,3,156,1,2,Uberlândia,Osvaldo Rezende
+13.700,3,270,4,4,Uberlândia,Jardim Botânico
+6.000,1,150,0,1,Uberlândia,Patrimônio
+11.000,4,370,2,1,Uberlândia,Nova Uberlândia
+2.200,2,63,4,1,Uberlândia,Morada da Colina
+13.000,4,230,1,4,Uberlândia,Granja Marileusa
+4.000,4,270,3,2,Uberlândia,Chácaras Eldorado
+4.400,3,180,4,2,Uberlândia,Umuarama
+2.200,5,110,5,1,Uberlândia,Nossa Senhora Aparecida
+4.800,3,275,2,2,Uberlândia,Jardim Karaíba
+3.300,3,267,2,1,Uberlândia,Cidade Jardim
+1.700,5,80,1,1,Uberlândia,Nossa Senhora Aparecida
+3.500,3,210,2,2,Uberlândia,Custódio Pereira
+3.500,3,100,2,1,Uberlândia,Bosque dos Buritis
+5.000,3,230,5,3,Uberlândia,Segismundo Pereira
+1.200,2,70,0,1,Uberlândia,Martins
+650,1,40,0,1,Uberlândia,Nossa Senhora Aparecida
+950,2,55,1,1,Uberlândia,Martins
+4.100,4,360,3,3,Uberlândia,Tabajaras
+1.400,3,70,0,1,Uberlândia,Martins
+5.800,4,239,4,5,Uberlândia,Morada da Colina
+15.000,3,250,2,4,Uberlândia,Nova Uberlândia
+10.000,3,312,2,4,Uberlândia,Jardim Karaíba
+1.250,3,65,1,1,Uberlândia,Martins
+2.700,3,190,3,3,Uberlândia,Jardim Canaã
+1.100,2,50,0,1,Uberlândia,Martins
+3.700,3,200,3,2,Uberlândia,Jardim Europa
+2.200,3,170,4,2,Uberlândia,Brasil
+2.800,3,250,3,2,Uberlândia,Cazeca
+10.000,4,296,2,5,Uberlândia,Granja Marileusa
+2.350,3,190,1,3,Uberlândia,Nossa Senhora Aparecida
+4.800,3,226,3,1,Uberlândia,Jardim Inconfidência
+5.000,3,165,3,4,Uberlândia,Laranjeiras
+3.500,3,81,2,3,Uberlândia,Bosque dos Buritis
+5.400,3,140,3,4,Uberlândia,Jardim Karaíba
+4.500,4,160,2,4,Uberlândia,Santa Mônica
+1.600,3,90,1,2,Uberlândia,Centro
+9.800,5,600,5,5,Uberlândia,Cidade Jardim
+10.000,5,479,5,5,Uberlândia,Martins
+3.500,4,105,2,1,Uberlândia,Lídice
+8.500,4,142,5,5,Uberlândia,Granja Marileusa
+1.150,2,85,0,2,Uberlândia,Centro
+12.000,4,390,3,5,Uberlândia,Nova Uberlândia
+13.000,3,262,4,5,Uberlândia,Nova Uberlândia
+11.000,4,255,4,5,Uberlândia,Nova Uberlândia
+8.000,3,255,3,4,Uberlândia,Jardim Karaíba
+4.800,3,210,2,2,Uberlândia,Jardim Europa
+2.000,3,90,1,2,Uberlândia,Santa Mônica
+5.400,3,180,1,4,Uberlândia,Jardim Karaíba
+3.500,3,190,4,3,Uberlândia,Santa Mônica
+4.000,4,180,1,3,Uberlândia,Tabajaras
+5.400,3,250,4,3,Uberlândia,Jardim Inconfidência
+40.000,1,2000,5,3,Uberlândia,Chácaras Tubalina e Quartel
+7.000,4,300,0,2,Uberlândia,Martins
+5.800,3,234,2,2,Uberlândia,Cidade Jardim
+7.000,1,500,0,2,Uberlândia,Jardim Europa
+6.000,3,145,3,2,Uberlândia,Bosque dos Buritis
+5.500,1,165,0,2,Uberlândia,Grand Ville
+10.000,5,550,4,5,Uberlândia,Mansões Aeroporto
+2.120,3,168,4,2,Uberlândia,Umuarama
+7.500,3,330,2,5,Uberlândia,Jardim Karaíba
+15.000,5,573,2,4,Uberlândia,Morada do Sol
+90.000,1,2675,0,1,Uberlândia,Brasil
+4.500,1,219,0,2,Uberlândia,Centro
+22.000,1,626,0,5,Uberlândia,Centro
+9.000,4,285,2,5,Uberlândia,Aclimação
+7.500,3,100,0,2,Uberlândia,Brasil
+1.550,3,150,2,1,Uberlândia,Brasil
+3.700,3,210,0,1,Uberlândia,Jardim Europa
+1.400,3,80,0,1,Uberlândia,Martins
+3.500,1,80,0,2,Uberlândia,Segismundo Pereira
+6.500,4,232,3,3,Uberlândia,Jardim Karaíba
+900,2,70,0,1,Uberlândia,Luizote de Freitas
+4.500,5,200,2,2,Uberlândia,Vigilato Pereira
+1.600,3,100,2,1,Uberlândia,Martins
+5.800,3,200,2,2,Uberlândia,Jardim Europa
+4.500,4,290,3,5,Uberlândia,Vigilato Pereira
+15.000,4,581,5,5,Uberlândia,Cidade Jardim
+7.000,3,337,3,3,Uberlândia,Centro
+4.000,1,150,0,3,Uberlândia,Centro
+20.000,3,450,5,4,Uberlândia,Morada da Colina
+12.000,3,600,3,2,Uberlândia,Lídice
+4.800,1,169,0,2,Uberlândia,Centro
+8.000,5,435,0,5,Uberlândia,Centro
+6.500,3,700,4,5,Uberlândia,Tabajaras
+10.000,5,640,4,2,Uberlândia,Lídice
+35.000,1,370,0,5,Uberlândia,Nossa Senhora Aparecida
+5.000,3,180,3,2,Uberlândia,Jardim Karaíba
+6.000,3,400,5,4,Uberlândia,Jardim Inconfidência
+6.000,3,290,4,2,Uberlândia,Cidade Jardim
+3.600,3,210,2,2,Uberlândia,Fundinho
+8.000,4,240,2,5,Uberlândia,Aclimação
+27.000,1,342,0,1,Uberlândia,Santa Mônica
+3.000,1,70,0,1,Uberlândia,Fundinho
+5.000,3,248,3,2,Uberlândia,Lagoinha
+3.500,3,120,2,4,Uberlândia,Presidente Roosevelt
+2.200,1,100,0,2,Uberlândia,Centro
+4.500,3,252,2,2,Uberlândia,Tabajaras
+5.500,3,228,2,2,Uberlândia,Nossa Senhora Aparecida
+3.650,1,156,0,3,Uberlândia,Martins
+12.000,3,328,5,3,Uberlândia,Morada da Colina
+6.000,5,406,5,5,Uberlândia,Lídice
+25.000,5,700,5,5,Uberlândia,Centro
+5.200,3,100,5,4,Uberlândia,Presidente Roosevelt
+6.300,4,270,5,2,Uberlândia,Tubalina
+5.300,3,214,4,4,Uberlândia,Jardim Karaíba
+4.800,3,250,3,5,Uberlândia,Cidade Jardim
+18.000,1,518,4,4,Uberlândia,Centro
+4.000,4,260,2,2,Uberlândia,Daniel Fonseca
+3.100,4,180,2,3,Uberlândia,Aclimação
+6.000,3,220,4,5,Uberlândia,Cidade Jardim
+10.500,5,552,3,2,Uberlândia,Morada da Colina
+15.000,4,40000,3,5,Uberlândia,Nova Uberlândia
+6.500,3,200,2,3,Uberlândia,Vigilato Pereira
+8.000,3,280,2,2,Uberlândia,Lídice
+8.000,1,241,0,3,Uberlândia,Centro
+800,2,50,0,1,Uberlândia,Osvaldo Rezende
+11.000,5,697,5,5,Uberlândia,Nova Uberlândia
+6.000,4,333,4,2,Uberlândia,Lídice
+6.500,5,180,2,5,Uberlândia,Jardim Patrícia
+7.000,3,360,2,2,Uberlândia,Santa Mônica
+4.800,3,220,2,2,Uberlândia,Jardim Karaíba
+6.500,4,222,4,5,Uberlândia,Chácaras Tubalina e Quartel
+11.500,4,500,4,4,Uberlândia,Morada da Colina
+11.500,4,400,5,5,Uberlândia,Morada da Colina
+2.300,3,200,3,2,Uberlândia,Aclimação
+3.000,3,189,3,2,Uberlândia,Santa Mônica
+3.200,3,180,2,3,Uberlândia,Segismundo Pereira
+55.000,5,3000,5,1,Uberlândia,Saraiva
+9.800,3,360,2,4,Uberlândia,Aclimação
+3.000,5,250,1,2,Uberlândia,Martins
+800,2,70,0,1,Uberlândia,Martins
+18.000,1,620,2,5,Uberlândia,Centro
+2.500,3,130,2,2,Uberlândia,Saraiva
+4.000,3,140,2,3,Uberlândia,Jardim Colina
+3.300,3,142,3,2,Uberlândia,Santa Mônica
+8.000,4,425,3,5,Uberlândia,Vigilato Pereira
+3.500,3,160,3,2,Uberlândia,Jardim Europa
+4.400,3,150,2,2,Uberlândia,Umuarama
+10.000,5,334,3,2,Uberlândia,Fundinho
+20.000,1,280,0,3,Uberlândia,Tabajaras
+4.000,3,300,2,3,Uberlândia,Aclimação
+5.500,3,210,2,5,Uberlândia,Jardim Inconfidência
+2.500,4,204,1,2,Uberlândia,Martins
+4.000,3,120,2,3,Uberlândia,Tubalina
+9.300,5,400,2,5,Uberlândia,Cidade Jardim
+3.300,3,223,2,2,Uberlândia,Vigilato Pereira
+12.000,4,535,5,3,Uberlândia,Morada do Sol
+20.000,3,530,0,2,Uberlândia,Lídice
+7.000,4,379,5,5,Uberlândia,Cidade Jardim
+3.800,4,180,1,1,Uberlândia,Tabajaras
+700,2,45,0,1,Uberlândia,Bom Jesus
+1.300,3,90,1,2,Uberlândia,Taiaman
+3.500,5,210,3,3,Uberlândia,Alto Umuarama
+12.000,4,320,4,5,Uberlândia,Vigilato Pereira
+4.000,3,184,2,2,Uberlândia,Lídice
+4.500,4,250,1,4,Uberlândia,Lídice
+1.500,2,105,1,2,Uberlândia,Osvaldo Rezende
+28.000,3,355,4,5,Uberlândia,Jardim Sul
+13.000,5,366,2,5,Uberlândia,Jardim Karaíba
+15.500,4,390,4,5,Uberlândia,Morada da Colina
+9.000,5,261,4,3,Uberlândia,Santa Mônica
+5.200,5,300,3,3,Uberlândia,Osvaldo Rezende
+3.500,3,81,0,3,Uberlândia,Bosque dos Buritis
+2.000,2,120,2,1,Uberlândia,Nossa Senhora Aparecida
+6.000,1,133,0,2,Uberlândia,Luizote de Freitas
+12.000,4,244,2,3,Uberlândia,Martins
+4.500,3,200,4,2,Uberlândia,Santa Mônica
+5.000,1,220,0,3,Uberlândia,Lídice
+4.000,2,91,0,2,Uberlândia,Martins
+9.000,3,400,4,4,Uberlândia,Cidade Jardim
+13.000,3,240,3,4,Uberlândia,Laranjeiras
+8.000,3,400,4,2,Uberlândia,Umuarama
+3.500,3,200,2,2,Uberlândia,Custódio Pereira
+6.000,3,210,2,3,Uberlândia,Alto Umuarama
+5.000,1,130,0,1,Uberlândia,Fundinho
+3.500,1,100,0,2,Uberlândia,Fundinho
+18.000,4,534,5,2,Uberlândia,Morada da Colina
+7.000,4,290,2,2,Uberlândia,Jardim Karaíba
+16.000,3,600,4,3,Uberlândia,Jardim Patrícia
+7.000,3,250,4,2,Uberlândia,Fundinho
+7.000,5,156,4,3,Uberlândia,Saraiva
+8.000,4,330,4,5,Uberlândia,Cidade Jardim
+20.000,4,393,4,3,Uberlândia,Morada da Colina
+9.000,3,311,2,2,Uberlândia,Morada da Colina
+1.300,3,70,1,1,Uberlândia,Martins
+5.500,1,170,0,3,Uberlândia,Lídice
+850,1,50,0,1,Uberlândia,Lídice
+12.000,1,350,5,3,Uberlândia,Brasil
+27.000,1,450,0,5,Uberlândia,Cidade Jardim
+13.500,3,465,2,5,Uberlândia,Morada da Colina
+15.000,1,273,0,2,Uberlândia,Aclimação
+4.000,3,93,2,2,Uberlândia,Laranjeiras
+9.500,4,500,4,5,Uberlândia,Morada da Colina
+8.800,4,347,2,3,Uberlândia,Cazeca
+7.300,3,311,0,4,Uberlândia,Brasil
+18.000,4,333,3,3,Uberlândia,Jardim Karaíba
+5.000,5,280,3,5,Uberlândia,Nossa Senhora Aparecida
+6.000,3,196,2,3,Uberlândia,Cazeca
+3.500,3,239,0,2,Uberlândia,Saraiva
+7.000,3,200,2,2,Uberlândia,Umuarama
+4.500,3,193,2,3,Uberlândia,Nossa Senhora das Graças
+20.000,4,600,5,3,Uberlândia,Lídice
+12.000,4,371,5,3,Uberlândia,Cidade Jardim
+5.500,3,240,2,2,Uberlândia,Vigilato Pereira
+800,2,70,0,1,Uberlândia,Martins
+6.000,3,413,4,2,Uberlândia,Vigilato Pereira
+1.500,3,155,1,1,Uberlândia,Lídice
+7.500,3,250,2,4,Uberlândia,Presidente Roosevelt
+1.300,2,80,0,1,Uberlândia,Fundinho
+45.000,1,1100,0,2,Uberlândia,Lídice
+4.800,4,338,3,3,Uberlândia,Centro
+3.500,3,120,2,2,Uberlândia,Santa Mônica
+2.200,3,110,2,2,Uberlândia,Tibery
+10.000,4,500,4,4,Uberlândia,Brasil
+4.500,3,295,3,2,Uberlândia,Brasil
+18.000,4,554,4,3,Uberlândia,Jardim Karaíba
+2.200,1,70,1,1,Uberlândia,Morada da Colina
+2.600,2,120,2,2,Uberlândia,Morada da Colina
+11.000,5,300,2,2,Uberlândia,Centro
+6.000,3,450,5,5,Uberlândia,Jardim Inconfidência
+5.000,4,286,4,3,Uberlândia,Santa Mônica
+850,1,30,0,2,Uberlândia,Marta Helena
+4.800,4,230,4,3,Uberlândia,Lídice
+5.000,1,240,0,3,Uberlândia,Nossa Senhora Aparecida
+5.300,4,260,4,3,Uberlândia,Tabajaras
+10.000,5,390,4,5,Uberlândia,Jardim Karaíba
+12.000,1,500,4,4,Uberlândia,Lídice
+20.000,1,380,3,5,Uberlândia,Centro
+8.000,5,250,2,5,Uberlândia,Fundinho
+5.200,3,188,3,2,Uberlândia,Jardim Inconfidência
+5.000,4,283,1,2,Uberlândia,Centro
+7.000,5,455,2,5,Uberlândia,Santa Mônica
+15.000,1,379,0,4,Uberlândia,Martins
+80.000,1,832,5,2,Uberlândia,Centro
+8.000,4,253,4,5,Uberlândia,Jardim Colina
+7.500,5,385,5,3,Uberlândia,Presidente Roosevelt
+15.000,5,450,0,5,Uberlândia,Martins
+7.800,5,411,2,2,Uberlândia,Cidade Jardim
+4.900,1,200,0,1,Uberlândia,Cazeca
+16.000,4,345,5,4,Uberlândia,Morada da Colina
+10.000,2,700,4,5,Uberlândia,Umuarama
+8.000,3,325,2,4,Uberlândia,Fundinho
+6.500,4,279,2,3,Uberlândia,Jardim Karaíba
+12.000,4,308,2,3,Uberlândia,Nova Uberlândia
+7.500,1,155,5,4,Uberlândia,Brasil
+4.000,3,124,2,2,Uberlândia,Aclimação
+5.000,5,711,5,2,Uberlândia,Martins
+1.400,2,70,1,1,Uberlândia,Nossa Senhora Aparecida
+6.700,3,170,2,3,Uberlândia,Bosque dos Buritis
+8.000,2,132,0,1,Uberlândia,Centro
+4.800,1,379,5,2,Uberlândia,Nossa Senhora Aparecida
+13.000,1,400,0,2,Uberlândia,Nossa Senhora Aparecida
+8.000,5,145,2,3,Uberlândia,Nossa Senhora Aparecida
+8.000,3,280,2,3,Uberlândia,Cidade Jardim
+25.000,1,1000,0,4,Uberlândia,Centro
+4.000,3,190,2,2,Uberlândia,Cidade Jardim
+3.500,1,110,0,2,Uberlândia,Centro
+80.000,1,1600,0,5,Uberlândia,Centro
+8.000,3,262,4,3,Uberlândia,Jardim Karaíba
+7.000,3,388,0,2,Uberlândia,Martins
+700,1,45,0,1,Uberlândia,Pacaembu
+6.500,3,123,2,3,Uberlândia,Bosque dos Buritis
+3.500,1,80,0,2,Uberlândia,Segismundo Pereira
+48.000,1,900,5,2,Uberlândia,Brasil
+8.000,1,420,0,4,Uberlândia,Martins
+14.500,3,347,3,4,Uberlândia,Gávea
+6.000,3,200,2,2,Uberlândia,Jardim Karaíba
+4.500,1,250,1,3,Uberlândia,Brasil
+5.300,3,200,2,3,Uberlândia,Jardim Inconfidência
+12.000,5,470,0,5,Uberlândia,Fundinho
+4.950,3,283,4,4,Uberlândia,Daniel Fonseca
+4.000,4,320,3,2,Uberlândia,Osvaldo Rezende
+4.500,3,190,2,2,Uberlândia,Santa Mônica
+7.000,1,160,0,2,Uberlândia,Osvaldo Rezende
+3.500,3,240,4,4,Uberlândia,Santa Mônica
+3.500,3,180,2,2,Uberlândia,Jardim Patrícia
+25.000,1,937,5,2,Uberlândia,Martins
+12.000,3,479,2,3,Uberlândia,Centro
+12.000,4,370,2,5,Uberlândia,Morada da Colina
+3.300,3,200,3,2,Uberlândia,Santa Luzia
+16.000,4,402,0,2,Uberlândia,Centro
+4.400,1,180,0,4,Uberlândia,Segismundo Pereira
+11.000,3,344,4,5,Uberlândia,Morada da Colina
+4.000,4,150,2,3,Uberlândia,Nossa Senhora Aparecida
+11.500,4,430,4,5,Uberlândia,Jardim Karaíba
+20.000,3,436,5,4,Uberlândia,Morada da Colina
+3.200,3,81,2,4,Uberlândia,Bosque dos Buritis
+3.500,4,254,2,3,Uberlândia,Lídice
+2.500,1,220,0,2,Uberlândia,Martins
+5.900,3,180,4,5,Uberlândia,Jardim Karaíba
+3.500,3,130,3,2,Uberlândia,Nossa Senhora Aparecida
+3.500,4,250,0,2,Uberlândia,Minas Gerais
+4.500,3,220,4,5,Uberlândia,Cidade Jardim
+2.500,2,122,1,2,Uberlândia,Martins
+25.000,4,600,3,5,Uberlândia,Nova Uberlândia
+10.000,4,360,2,2,Uberlândia,Morada da Colina
+4.800,3,200,2,3,Uberlândia,Vigilato Pereira
+4.100,1,150,0,1,Uberlândia,Jardim das Palmeiras
+850,2,44,0,1,Uberlândia,Lídice
+12.000,3,220,2,5,Uberlândia,Aclimação
+2.400,3,374,2,4,Uberlândia,Brasil
+6.000,5,195,2,5,Uberlândia,Santa Rosa
+9.500,1,250,0,2,Uberlândia,Nossa Senhora Aparecida
+10.000,3,192,2,2,Uberlândia,Nova Uberlândia
+3.800,1,180,0,1,Uberlândia,Centro
+2.300,3,179,2,2,Uberlândia,Presidente Roosevelt
+4.900,3,190,2,3,Uberlândia,Tabajaras
+7.800,1,356,2,5,Uberlândia,Fundinho
+14.000,3,270,2,4,Uberlândia,Laranjeiras
+4.000,3,165,3,3,Uberlândia,Bosque dos Buritis
+3.500,3,150,3,4,Uberlândia,Alto Umuarama
+3.000,3,81,2,3,Uberlândia,Bosque dos Buritis
+8.000,1,200,0,2,Uberlândia,Centro
+18.500,1,300,3,5,Uberlândia,Fundinho
+5.500,5,280,3,5,Uberlândia,Fundinho
+3.500,3,81,0,3,Uberlândia,Bosque dos Buritis
+5.300,3,235,1,3,Uberlândia,Fundinho
+7.500,4,440,2,5,Uberlândia,Vigilato Pereira
+8.000,4,255,4,3,Uberlândia,Tabajaras
+3.800,3,200,2,3,Uberlândia,Santa Mônica
+20.000,3,428,0,3,Uberlândia,Morada da Colina
+8.000,3,220,3,3,Uberlândia,Nossa Senhora Aparecida
+15.000,4,350,4,5,Uberlândia,Nova Uberlândia
+4.100,3,200,2,2,Uberlândia,Cidade Jardim
+3.000,4,190,3,3,Uberlândia,Bom Jesus
+22.000,1,950,5,4,Uberlândia,Centro
+3.500,3,220,0,3,Uberlândia,Brasil
+15.000,5,600,5,5,Uberlândia,Jardim Karaíba
+900,2,50,0,1,Uberlândia,Osvaldo Rezende
+5.000,1,150,0,4,Uberlândia,Centro
+15.000,4,410,2,5,Uberlândia,Nova Uberlândia
+10.000,3,288,2,5,Uberlândia,Nova Uberlândia
+1.300,3,85,1,2,Uberlândia,Martins
+2.500,4,250,0,5,Uberlândia,Jardim Brasília
+3.250,4,200,5,2,Uberlândia,Lídice
+5.800,4,300,5,2,Uberlândia,Saraiva
+9.000,4,486,5,2,Uberlândia,Cidade Jardim
+5.800,3,142,2,4,Uberlândia,Granja Marileusa
+15.000,4,582,4,5,Uberlândia,Cidade Jardim
+4.500,5,200,4,5,Uberlândia,Vigilato Pereira
+12.000,4,600,5,4,Uberlândia,Morada da Colina
+8.000,4,300,4,1,Uberlândia,Laranjeiras
+6.000,5,200,4,2,Uberlândia,Cazeca
+4.500,3,160,3,2,Uberlândia,Jardim Patrícia
+7.500,3,181,2,4,Uberlândia,Grand Ville
+4.500,3,200,3,3,Uberlândia,Patrimônio
+12.000,4,230,4,3,Uberlândia,Granja Marileusa
+6.000,4,230,3,3,Uberlândia,Jardim Karaíba
+6.000,5,10,5,4,Uberlândia,Jardim Inconfidência
+5.800,5,245,5,2,Uberlândia,Jardim Inconfidência
+3.300,3,145,2,2,Uberlândia,Santa Mônica
+15.000,4,560,4,5,Uberlândia,Cidade Jardim
+3.300,4,10,2,2,Uberlândia,Martins
+9.700,3,10,2,1,Uberlândia,Jardim Botânico
+5.500,4,10,3,5,Uberlândia,Morada da Colina
+5.000,4,10,2,5,Uberlândia,Tabajaras
+9.800,4,10,4,4,Uberlândia,Aclimação
+3.400,3,250,2,2,Uberlândia,Jardim Inconfidência
+12.000,4,230,2,1,Uberlândia,Granja Marileusa
+12.000,4,384,3,5,Uberlândia,Morada da Colina
+2.500,4,10,0,2,Uberlândia,Fundinho
+20.000,3,10,4,5,Uberlândia,Morada da Colina
+11.500,5,10,2,2,Uberlândia,Fundinho
+6.500,5,10,4,3,Uberlândia,Umuarama
+6.500,3,10,3,2,Uberlândia,Bosque dos Buritis
+10.000,3,10,3,5,Uberlândia,Lídice
+9.700,4,10,4,5,Uberlândia,Jardim Botânico
+10.500,3,10,4,4,Uberlândia,Aclimação
+8.000,3,10,5,3,Uberlândia,Cidade Jardim
+13.500,3,269,0,5,Uberlândia,Nova Uberlândia
+4.500,3,185,3,3,Uberlândia,Bosque dos Buritis
+2.000,2,79,5,1,Uberlândia,Jardim Europa
+4.800,3,200,3,3,Uberlândia,Jardim Inconfidência
+3.900,3,113,0,2,Uberlândia,Jardim Inconfidência
+3.500,4,254,3,1,Uberlândia,Fundinho
+1.600,2,90,1,1,Uberlândia,Centro
+7.000,3,200,1,1,Uberlândia,Umuarama
+8.000,4,277,4,5,Uberlândia,Jardim Colina
+3.600,4,290,4,3,Uberlândia,Cidade Jardim
+4.500,4,222,2,3,Uberlândia,Jardim Karaíba
+4.200,4,368,1,3,Uberlândia,Tabajaras
+8.000,4,300,3,5,Uberlândia,Lagoinha
+800,2,45,2,1,Uberlândia,Panorama
+11.000,3,223,1,4,Uberlândia,Nova Uberlândia
+3.000,4,200,2,3,Uberlândia,Martins
+1.800,2,70,1,2,Uberlândia,Martins
+2.700,3,180,4,2,Uberlândia,Santa Mônica
+5.500,3,144,2,2,Uberlândia,Aclimação
+600,1,40,0,1,Uberlândia,Jardim das Palmeiras
+7.000,4,350,2,4,Uberlândia,Vigilato Pereira
+8.000,3,218,2,2,Uberlândia,Grand Ville
+8.000,3,218,2,2,Uberlândia,Grand Ville
+6.500,3,230,3,4,Uberlândia,Jardim Sul
+6.500,3,215,1,2,Uberlândia,Jardim Sul
+5.500,4,350,4,4,Uberlândia,Saraiva
+12.000,3,250,2,5,Uberlândia,Jardim Botânico
+6.500,3,230,2,4,Uberlândia,Jardim Sul
+15.000,4,458,5,5,Uberlândia,Jardim Karaíba
+4.500,3,160,3,3,Uberlândia,Jardim Patrícia
+15.000,3,500,5,5,Uberlândia,Cidade Jardim
+9.900,4,500,2,1,Uberlândia,Tabajaras
+14.500,4,350,3,3,Uberlândia,Gávea
+8.000,3,191,4,3,Uberlândia,Grand Ville
+2.200,3,130,1,2,Uberlândia,Nossa Senhora Aparecida
+3.900,3,200,3,2,Uberlândia,Daniel Fonseca
+2.700,3,157,3,2,Uberlândia,Brasil
+3.500,3,190,2,3,Uberlândia,Santa Mônica
+4.000,1,125,2,2,Uberlândia,Santa Mônica
+1.800,2,70,1,1,Uberlândia,Centro
+1.000,3,81,0,1,Uberlândia,Nossa Senhora Aparecida
+2.600,2,200,2,2,Uberlândia,Brasil
+4.500,3,240,2,1,Uberlândia,Santa Mônica
+3.000,2,210,2,2,Uberlândia,Brasil
+3.200,3,180,2,2,Uberlândia,Martins
+6.000,3,180,4,3,Uberlândia,Cidade Jardim
+10.000,4,397,2,2,Uberlândia,Nova Uberlândia
+10.000,4,397,2,2,Uberlândia,Nova Uberlândia
+10.000,4,397,2,2,Uberlândia,Nova Uberlândia
+3.500,3,210,2,3,Uberlândia,Cidade Jardim
+7.000,3,258,4,5,Uberlândia,Jardim Inconfidência
+1.150,2,113,0,1,Uberlândia,Centro
+1.680,1,141,0,2,Uberlândia,Martins
+3.500,3,89,0,2,Uberlândia,Martins
+670,1,200,0,1,Uberlândia,Martins
+6.000,3,290,4,1,Uberlândia,Cidade Jardim
+3.400,3,140,4,1,Uberlândia,Cidade Jardim
+5.500,4,300,2,5,Uberlândia,Santa Mônica
+9.000,5,700,4,5,Uberlândia,Morada da Colina
+2.600,4,106,2,3,Uberlândia,Santa Mônica
+1.600,3,90,1,3,Uberlândia,Osvaldo Rezende
+15.000,3,360,3,5,Uberlândia,Laranjeiras
+4.800,3,235,5,2,Uberlândia,Brasil
+15.500,4,515,3,5,Uberlândia,Morada da Colina
+5.700,3,300,4,4,Uberlândia,Jardim Karaíba
+7.700,4,600,0,3,Uberlândia,Vigilato Pereira
+8.000,4,478,4,3,Uberlândia,Jardim Colina
+8.500,4,170,2,5,Uberlândia,Granja Marileusa
+16.000,4,400,4,5,Uberlândia,Morada da Colina
+990,2,60,0,1,Uberlândia,Segismundo Pereira
+14.000,3,360,2,4,Uberlândia,Nova Uberlândia
+21.000,5,800,0,5,Uberlândia,Nova Uberlândia
+8.000,3,200,2,3,Uberlândia,Novo Mundo
+3.600,3,140,2,2,Uberlândia,Bosque dos Buritis
+8.000,3,360,1,3,Uberlândia,Fundinho
+7.500,3,240,4,3,Uberlândia,Lagoinha
+12.000,3,486,1,4,Uberlândia,Granja Marileusa
+12.000,4,800,5,5,Uberlândia,Jardim Karaíba
+11.000,4,438,4,4,Uberlândia,Jardim Karaíba
+10.000,5,450,0,4,Uberlândia,Morada da Colina
+15.000,4,556,1,5,Uberlândia,Morada da Colina
+12.500,3,240,2,2,Uberlândia,Gávea
+9.800,3,300,4,5,Uberlândia,Aclimação
+9.000,4,310,2,1,Uberlândia,Jardim Inconfidência
+4.500,3,200,2,2,Uberlândia,Tabajaras
+7.500,5,600,5,5,Uberlândia,Umuarama
+5.500,4,320,2,5,Uberlândia,Santa Mônica
+800,2,50,0,1,Uberlândia,Nossa Senhora Aparecida
+9.000,4,699,4,5,Uberlândia,Morada da Colina
+11.000,4,230,2,5,Uberlândia,Nova Uberlândia
+3.500,3,120,2,1,Uberlândia,Novo Mundo
+3.000,3,120,2,1,Uberlândia,Novo Mundo
+4.500,4,200,2,3,Uberlândia,Santa Mônica
+1.300,3,80,1,1,Uberlândia,Osvaldo Rezende
+8.000,4,230,4,2,Uberlândia,Morada da Colina
+3.300,3,142,2,2,Uberlândia,Segismundo Pereira
+4.500,3,158,3,2,Uberlândia,Jardim Patrícia
+3.500,3,90,2,1,Uberlândia,Nossa Senhora Aparecida
+6.000,4,10,4,2,Uberlândia,Lídice
+3.900,3,112,2,2,Uberlândia,Jardim Inconfidência
+3.200,4,348,3,2,Uberlândia,Tubalina
+4.200,3,180,3,3,Uberlândia,Tabajaras
+4.500,3,158,3,2,Uberlândia,Jardim Patrícia
+6.000,3,200,2,3,Uberlândia,Jardim Karaíba
+5.700,4,10,5,3,Uberlândia,Cidade Jardim
+15.000,4,410,5,5,Uberlândia,Nova Uberlândia
+22.000,5,200,0,5,Uberlândia,Nova Uberlândia
+12.000,4,396,5,4,Uberlândia,Cidade Jardim
+6.000,3,300,2,2,Uberlândia,Jardim Karaíba
+10.200,4,253,4,1,Uberlândia,Nova Uberlândia
+4.500,3,255,3,1,Uberlândia,Jardim Patrícia
+5.000,3,270,5,4,Uberlândia,Santa Mônica
+6.000,3,158,3,2,Uberlândia,Brasil
+1.600,2,90,0,2,Uberlândia,Nossa Senhora Aparecida
+5.000,3,180,5,3,Uberlândia,Jardim Karaíba
+3.600,3,180,2,2,Uberlândia,Santa Mônica
+6.000,5,370,3,4,Uberlândia,Nossa Senhora das Graças
+1.100,2,80,1,1,Uberlândia,Martins
+6.000,3,250,2,4,Uberlândia,Cidade Jardim
+9.300,3,200,2,4,Uberlândia,Jardim Botânico
+10.000,3,223,2,1,Uberlândia,Nova Uberlândia
+20.000,3,600,5,5,Uberlândia,Patrimônio
+6.000,3,250,2,4,Uberlândia,Cidade Jardim
+6.300,3,200,4,3,Uberlândia,Patrimônio
+10.000,4,223,2,5,Uberlândia,Nova Uberlândia
+6.000,3,220,2,3,Uberlândia,Brasil
+3.200,3,170,1,2,Uberlândia,Nossa Senhora Aparecida
+3.500,3,122,2,3,Uberlândia,Bosque dos Buritis
+5.000,4,250,4,3,Uberlândia,Centro
+13.000,4,366,2,5,Uberlândia,Jardim Karaíba
+6.300,3,200,0,3,Uberlândia,Jardim Colina
+4.300,4,360,3,2,Uberlândia,Tabajaras
+6.000,5,500,5,4,Uberlândia,Jardim Karaíba
+1.800,2,110,1,1,Uberlândia,Nossa Senhora Aparecida
+3.500,3,180,2,4,Uberlândia,Alto Umuarama
+2.600,2,120,4,2,Uberlândia,Tibery
+2.500,2,60,2,2,Uberlândia,Martins
+8.000,2,701,2,2,Uberlândia,Martins
+3.000,3,180,3,2,Uberlândia,Santa Mônica
+2.200,3,52,2,2,Uberlândia,Bom Jesus
+8.500,4,180,2,5,Uberlândia,Umuarama
+6.000,4,370,0,2,Uberlândia,Umuarama
+1.250,1,57,1,1,Uberlândia,Umuarama
+12.500,5,230,4,1,Uberlândia,Granja Marileusa
+6.000,3,158,3,3,Uberlândia,Brasil
+12.000,4,231,4,5,Uberlândia,Granja Marileusa
+5.500,3,260,4,4,Uberlândia,Cidade Jardim
+3.500,4,180,3,3,Uberlândia,Alto Umuarama
+5.700,4,245,4,2,Uberlândia,Jardim Karaíba
+7.800,4,215,2,4,Uberlândia,Lídice
+13.000,4,366,3,1,Uberlândia,Jardim Karaíba
+3.800,3,81,1,2,Uberlândia,Bosque dos Buritis
+5.500,3,260,4,5,Uberlândia,Cidade Jardim
+850,3,55,0,1,Uberlândia,Osvaldo Rezende
+6.000,5,280,4,3,Uberlândia,Osvaldo Rezende
+4.200,3,185,3,2,Uberlândia,Bosque dos Buritis
+3.900,3,128,1,3,Uberlândia,Jardim Inconfidência
+4.800,5,280,2,3,Uberlândia,Jardim Patrícia
+1.800,2,60,0,1,Uberlândia,Presidente Roosevelt
+6.000,3,220,3,2,Uberlândia,Brasil
+8.000,2,80,5,2,Uberlândia,Osvaldo Rezende
+12.000,4,450,2,4,Uberlândia,Morada da Colina
+2.800,2,80,1,2,Uberlândia,Osvaldo Rezende
+13.000,4,408,5,5,Uberlândia,Morada da Colina
+6.800,3,250,3,2,Uberlândia,Umuarama
+1.500,2,70,1,1,Uberlândia,Brasil
+7.500,3,258,4,4,Uberlândia,Jardim Inconfidência
+1.300,3,90,1,2,Uberlândia,Taiaman
+1.100,3,90,1,2,Uberlândia,Jardim das Palmeiras
+3.800,4,300,4,2,Uberlândia,Centro
+6.400,5,400,4,3,Uberlândia,Jardim Karaíba
+5.000,3,300,2,4,Uberlândia,Saraiva
+11.000,4,230,4,4,Uberlândia,Granja Marileusa
+14.000,3,290,3,1,Uberlândia,Morada da Colina
+11.000,4,230,0,4,Uberlândia,Granja Marileusa
+2.300,1,110,0,2,Uberlândia,Tubalina
+12.000,4,230,4,4,Uberlândia,Granja Marileusa
+3.800,3,125,2,3,Uberlândia,Bosque dos Buritis
+2.500,3,110,1,1,Uberlândia,Tibery
+5.000,4,260,3,2,Uberlândia,Santa Mônica
+2.100,3,100,1,2,Uberlândia,Tibery
+10.000,4,336,2,1,Uberlândia,Vigilato Pereira
+4.000,3,160,3,3,Uberlândia,Tabajaras
+4.500,4,285,3,2,Uberlândia,Jardim Patrícia
+9.000,4,300,1,5,Uberlândia,Morada da Colina
+3.000,5,220,2,3,Uberlândia,Lídice
+8.500,4,350,5,5,Uberlândia,Cidade Jardim
+3.500,2,64,1,1,Uberlândia,Segismundo Pereira
+5.000,4,232,2,3,Uberlândia,Santa Mônica
+8.500,4,170,2,5,Uberlândia,Granja Marileusa
+9.500,3,230,2,4,Uberlândia,Jardim Botânico
+12.000,3,250,2,4,Uberlândia,Gávea
+6.500,3,280,4,5,Uberlândia,Cidade Jardim
+15.000,3,192,2,2,Uberlândia,Granja Marileusa
+5.400,3,220,4,4,Uberlândia,Jardim Inconfidência
+5.000,4,250,4,4,Uberlândia,Fundinho
+2.300,3,170,4,3,Uberlândia,Nova Uberlândia
+2.500,2,129,0,1,Uberlândia,Fundinho
+3.990,5,270,2,3,Uberlândia,Jaraguá
+5.500,5,300,2,3,Uberlândia,Lagoinha
+20.900,3,370,2,1,Uberlândia,Nova Uberlândia
+4.000,3,160,0,2,Uberlândia,Tabajaras
+6.000,3,300,4,5,Uberlândia,Osvaldo Rezende
+5.500,3,300,3,4,Uberlândia,Fundinho
+1.480,3,71,1,1,Uberlândia,Granada
+4.000,4,180,4,5,Uberlândia,Jardim Europa
+8.000,4,310,2,2,Uberlândia,Vigilato Pereira
+3.100,3,253,2,4,Uberlândia,Brasil
+6.000,3,260,4,2,Uberlândia,Cidade Jardim
+3.000,3,123,1,4,Uberlândia,Santa Mônica
+4.200,4,300,4,4,Uberlândia,Vigilato Pereira
+5.000,3,220,4,4,Uberlândia,Cidade Jardim
+2.200,2,100,3,2,Uberlândia,Tibery
+7.800,5,411,2,2,Uberlândia,Cidade Jardim
+1.000,3,60,1,1,Uberlândia,Osvaldo Rezende
+1.200,3,95,0,1,Uberlândia,Centro
+790,2,50,1,1,Uberlândia,Brasil
+4.800,3,180,2,3,Uberlândia,Jardim Europa
+8.000,4,350,3,5,Uberlândia,Vigilato Pereira
+2.800,3,140,1,1,Uberlândia,Tubalina
+7.000,5,200,2,3,Uberlândia,Santa Mônica
+3.200,4,282,3,5,Uberlândia,Fundinho
+6.000,3,315,3,5,Uberlândia,Osvaldo Rezende
+790,2,70,0,1,Uberlândia,Brasil
+790,2,70,1,2,Uberlândia,Brasil
+790,2,70,1,1,Uberlândia,Brasil
+790,2,70,0,1,Uberlândia,Brasil
+790,2,70,1,1,Uberlândia,Brasil
+6.000,3,270,3,4,Uberlândia,Lídice
+6.000,3,250,2,4,Uberlândia,Cidade Jardim
+8.000,4,320,4,4,Uberlândia,Jardim Colina
+5.500,4,320,4,4,Uberlândia,Cidade Jardim
+9.000,4,520,4,4,Uberlândia,Laranjeiras
+15.000,5,1500,0,3,Uberlândia,Martins
+4.000,3,190,2,4,Uberlândia,Umuarama
+2.800,4,100,0,3,Uberlândia,Martins
+1.600,2,70,1,1,Uberlândia,Martins
+8.000,4,255,4,3,Uberlândia,Fundinho
+3.300,3,230,4,3,Uberlândia,Santa Luzia
+4.500,3,252,3,2,Uberlândia,Brasil
+3.300,3,210,2,2,Uberlândia,Santa Mônica
+4.000,4,150,2,2,Uberlândia,Nossa Senhora Aparecida
+3.500,3,175,2,1,Uberlândia,Jardim Patrícia
+8.000,4,350,5,4,Uberlândia,Jardim Karaíba
+2.350,3,65,1,1,Uberlândia,Martins
+3.500,4,205,5,1,Uberlândia,Brasil
+5.500,5,280,3,4,Uberlândia,Fundinho
+15.000,4,370,5,1,Uberlândia,Centro
+4.800,3,305,4,1,Uberlândia,Lídice
+9.800,5,480,5,5,Uberlândia,Cidade Jardim
+3.700,5,160,4,5,Uberlândia,Saraiva
+6.000,4,487,2,3,Uberlândia,Fundinho
+3.300,3,208,2,2,Uberlândia,Santa Mônica
+15.000,4,338,3,5,Uberlândia,Laranjeiras
+750,2,52,0,1,Uberlândia,Chácaras Tubalina e Quartel
+3.300,2,150,2,2,Uberlândia,Santa Mônica
+3.000,4,211,3,2,Uberlândia,Planalto
+4.500,3,125,2,2,Uberlândia,Umuarama
+8.000,3,218,2,4,Uberlândia,Grand Ville
+20.000,3,660,4,5,Uberlândia,Patrimônio
+2.000,3,115,1,2,Uberlândia,Brasil
+1.300,2,90,1,1,Uberlândia,Santa Mônica
+7.500,3,278,4,5,Uberlândia,Jardim Karaíba
+4.000,3,112,2,2,Uberlândia,Jardim Inconfidência
+1.100,3,52,0,1,Uberlândia,Osvaldo Rezende
+1.200,2,58,1,1,Uberlândia,Fundinho
+18.000,4,500,4,3,Uberlândia,Morada da Colina
+20.000,3,600,4,3,Uberlândia,Morada da Colina
+4.300,3,250,5,4,Uberlândia,Jardim Colina
+1.800,3,110,1,2,Uberlândia,Nossa Senhora Aparecida
+5.000,4,384,4,4,Uberlândia,Jaraguá
+20.000,3,600,4,3,Uberlândia,Morada da Colina
+5.400,3,245,4,3,Uberlândia,Jardim Inconfidência
+1.800,2,134,2,1,Uberlândia,Nossa Senhora das Graças
+7.900,5,480,5,5,Uberlândia,Tabajaras
+2.350,3,189,4,4,Uberlândia,Nossa Senhora Aparecida
+3.500,4,177,5,5,Uberlândia,Daniel Fonseca
+920,2,50,1,1,Uberlândia,Brasil
+9.000,3,192,2,2,Uberlândia,Jardim das Palmeiras
+10.000,5,552,5,5,Uberlândia,Morada da Colina
+3.600,3,198,2,2,Uberlândia,Bosque dos Buritis
+8.000,3,400,5,4,Uberlândia,Vigilato Pereira
+18.000,3,337,3,5,Uberlândia,Nova Uberlândia
+13.000,2,344,4,4,Uberlândia,Morada da Colina
+5.500,3,396,4,5,Uberlândia,Cidade Jardim
+5.400,3,180,5,4,Uberlândia,Jardim Inconfidência
+18.000,4,337,3,5,Uberlândia,Nova Uberlândia
+4.000,5,180,2,5,Uberlândia,Fundinho
+2.500,3,200,2,1,Uberlândia,Maravilha
+11.000,5,300,2,2,Uberlândia,Nova Uberlândia
+7.900,4,210,3,1,Uberlândia,Tabajaras
+5.500,3,380,2,2,Uberlândia,Cidade Jardim
+12.000,3,200,2,4,Uberlândia,Jardim Karaíba
+950,2,44,1,1,Uberlândia,Jardim Brasília
+6.000,3,200,4,3,Uberlândia,Tibery
+3.000,3,140,2,4,Uberlândia,Tibery
+8.000,4,253,2,4,Uberlândia,Jardim Colina
+2.200,1,70,1,2,Uberlândia,Patrimônio
+15.500,4,390,0,5,Uberlândia,Morada da Colina
+6.000,5,365,3,3,Uberlândia,Fundinho
+6.400,4,296,3,4,Uberlândia,Jardim Europa
+8.000,4,291,4,5,Uberlândia,Cidade Jardim
+9.300,3,220,0,4,Uberlândia,Jardim Botânico
+5.000,4,200,1,2,Uberlândia,Cazeca
+8.000,4,300,4,5,Uberlândia,Lagoinha
+11.000,4,330,4,5,Uberlândia,Vigilato Pereira
+5.500,3,250,2,3,Uberlândia,Vigilato Pereira
+7.700,3,268,3,2,Uberlândia,Jardim Karaíba
+11.000,4,600,5,5,Uberlândia,Jardim Karaíba
+8.500,4,232,1,5,Uberlândia,Granada
+6.000,3,400,5,4,Uberlândia,Tubalina
+14.000,5,680,5,5,Uberlândia,Morada da Colina
+9.000,3,275,2,5,Uberlândia,Nossa Senhora Aparecida
+10.000,3,450,4,5,Uberlândia,Morada da Colina
+9.000,3,180,1,2,Uberlândia,Bosque dos Buritis
+3.200,2,140,4,3,Uberlândia,Santa Luzia
+15.000,4,458,1,5,Uberlândia,Jardim Karaíba
+900,1,40,0,1,Uberlândia,Centro
+3.300,2,235,2,2,Uberlândia,Fundinho
+2.000,3,105,0,1,Uberlândia,Fundinho
+920,2,60,1,1,Uberlândia,Brasil
+2.000,3,103,0,1,Uberlândia,Fundinho
+2.500,3,300,2,1,Uberlândia,Pampulha
+5.500,4,293,3,4,Uberlândia,Cidade Jardim
+16.000,4,400,4,5,Uberlândia,Morada da Colina
+4.800,4,338,3,4,Uberlândia,Centro
+1.200,2,60,0,1,Uberlândia,Martins
+850,2,65,1,1,Uberlândia,Nossa Senhora Aparecida
+4.500,1,200,1,5,Uberlândia,Segismundo Pereira
+15.000,3,240,2,5,Uberlândia,Jardim Botânico
+1.000,1,60,1,1,Uberlândia,Centro
+900,1,37,0,1,Uberlândia,Centro
+7.000,3,242,2,4,Uberlândia,Tabajaras
+9.000,3,192,2,2,Uberlândia,Jardim das Palmeiras
+6.500,3,273,3,3,Uberlândia,Alto Umuarama
+5.000,1,190,1,1,Uberlândia,Cazeca
+900,2,75,0,1,Uberlândia,Osvaldo Rezende
+12.000,3,242,2,5,Uberlândia,Nova Uberlândia
+830,1,60,0,1,Uberlândia,Brasil
+600,2,60,0,1,Uberlândia,Presidente Roosevelt
+12.000,4,231,2,5,Uberlândia,Granja Marileusa
+12.000,4,479,5,5,Uberlândia,Morada da Colina
+10.000,5,400,4,5,Uberlândia,Centro
+6.000,3,188,2,2,Uberlândia,Segismundo Pereira
+6.500,5,300,3,4,Uberlândia,Bom Jesus
+20.000,5,370,5,4,Uberlândia,Centro
+6.500,3,200,2,1,Uberlândia,Bosque dos Buritis
+2.200,3,180,2,2,Uberlândia,Brasil
+3.300,3,250,2,2,Uberlândia,Santa Luzia
+950,2,80,1,1,Uberlândia,Martins
+13.700,3,290,2,4,Uberlândia,Jardim Botânico
+8.000,4,425,4,4,Uberlândia,Vigilato Pereira
+14.000,3,270,2,5,Uberlândia,Jardim Botânico
+2.100,3,145,2,1,Uberlândia,Custódio Pereira
+750,2,40,0,1,Uberlândia,Santa Rosa
+7.500,5,600,4,5,Uberlândia,Umuarama
+3.000,3,70,1,1,Uberlândia,Bom Jesus
+9.500,3,200,4,5,Uberlândia,Jardim Botânico
+7.500,3,200,2,2,Uberlândia,Nossa Senhora Aparecida
+3.200,3,186,5,3,Uberlândia,Martins
+3.000,3,250,1,2,Uberlândia,Osvaldo Rezende
+650,1,35,0,1,Uberlândia,Martins
+7.500,4,280,4,1,Uberlândia,Tabajaras
+5.700,4,200,2,2,Uberlândia,Jardim Europa
+6.000,4,176,3,2,Uberlândia,Centro
+3.600,4,217,4,4,Uberlândia,Brasil
+1.500,2,120,0,1,Uberlândia,Martins
+8.000,4,400,2,5,Uberlândia,Vigilato Pereira
+5.000,4,285,2,5,Uberlândia,Jardim Patrícia
+12.000,4,454,4,5,Uberlândia,Vigilato Pereira
+4.500,3,250,4,1,Uberlândia,Santa Mônica
+1.300,3,70,0,1,Uberlândia,Fundinho
+8.000,3,120,5,1,Uberlândia,Fundinho
+3.900,4,300,3,2,Uberlândia,Custódio Pereira
+15.000,3,240,4,4,Uberlândia,Nova Uberlândia
+6.200,2,480,3,2,Uberlândia,Presidente Roosevelt
+1.000,4,150,1,1,Uberlândia,Jaraguá
+5.000,5,330,2,4,Uberlândia,Bom Jesus
+1.800,4,100,1,2,Uberlândia,Residencial Viviane
+3.000,3,140,2,2,Uberlândia,Santa Mônica
+4.500,5,330,0,4,Uberlândia,Nossa Senhora Aparecida
+5.000,4,250,2,4,Uberlândia,Tabajaras
+4.000,2,120,2,3,Uberlândia,Centro
+16.000,4,330,3,5,Uberlândia,Gávea
+10.000,3,520,5,4,Uberlândia,Patrimônio
+12.000,4,330,4,5,Uberlândia,Saraiva
+6.000,5,474,4,1,Uberlândia,Lídice
+1.300,3,95,1,1,Uberlândia,Centro
+700,2,65,0,2,Uberlândia,Osvaldo Rezende
+7.000,3,200,2,2,Uberlândia,Morada da Colina
+13.000,3,600,4,4,Uberlândia,Jardim Patrícia
+12.000,4,232,3,5,Uberlândia,Granja Marileusa
+3.600,3,200,2,1,Uberlândia,Bom Jesus
+2.400,3,250,2,1,Uberlândia,Jardim Holanda
+1.000,2,100,0,2,Uberlândia,Martins
+1.500,2,59,0,2,Uberlândia,Jaraguá
+15.000,3,440,2,5,Uberlândia,Nova Uberlândia
+4.500,5,300,2,5,Uberlândia,Martins
+14.000,5,380,4,5,Uberlândia,Nova Uberlândia
+4.300,2,187,3,1,Uberlândia,Umuarama
+1.400,2,70,1,2,Uberlândia,Brasil
+5.000,5,300,2,1,Uberlândia,Osvaldo Rezende
+750,3,40,0,1,Uberlândia,Santa Rosa
+4.500,4,330,2,4,Uberlândia,Umuarama
+800,2,60,0,2,Uberlândia,Tibery
+8.000,4,334,5,5,Uberlândia,Fundinho
+1.500,3,90,1,1,Uberlândia,Tibery
+3.200,4,180,2,2,Uberlândia,Lídice
+7.000,3,200,3,4,Uberlândia,Centro
+2.700,5,134,1,2,Uberlândia,Martins
+1.000,2,60,0,1,Uberlândia,Martins
+980,2,45,0,1,Uberlândia,Nossa Senhora Aparecida
+600,2,60,0,1,Uberlândia,Presidente Roosevelt
+5.000,2,80,0,1,Uberlândia,Mansour
+1.400,2,70,1,1,Uberlândia,Nossa Senhora Aparecida
+600,1,36,0,1,Uberlândia,Cidade Jardim
+7.500,3,160,2,4,Uberlândia,Umuarama
+4.000,4,150,3,3,Uberlândia,Fundinho
+15.000,3,280,4,5,Uberlândia,Jardim Botânico
+1.800,5,100,1,3,Uberlândia,Residencial Viviane
+3.500,4,250,2,5,Uberlândia,Santa Mônica
+7.500,3,244,4,5,Uberlândia,Jardim Karaíba
+10.000,4,382,5,5,Uberlândia,Jardim Karaíba
+5.500,4,200,2,2,Uberlândia,Cidade Jardim
+3.000,3,200,3,3,Uberlândia,Brasil
+20.000,4,600,5,2,Uberlândia,Nova Uberlândia
+16.000,4,408,2,1,Uberlândia,Morada da Colina
+10.000,4,372,5,1,Uberlândia,Fundinho
+22.000,3,355,4,4,Uberlândia,Jardim Sul
+10.000,3,305,2,5,Uberlândia,Jardim Inconfidência
+4.300,4,130,2,1,Uberlândia,Brasil
+12.000,4,620,4,5,Uberlândia,Marta Helena
+7.000,5,700,4,5,Uberlândia,Morada da Colina
+8.500,4,520,4,5,Uberlândia,Jardim Karaíba
+6.000,4,200,4,5,Uberlândia,Jardim Karaíba
+4.400,4,240,2,4,Uberlândia,Brasil
+9.500,5,480,5,5,Uberlândia,Cidade Jardim
+16.000,4,408,4,5,Uberlândia,Morada da Colina
+5.500,4,250,4,4,Uberlândia,Cidade Jardim
+4.200,3,235,1,3,Uberlândia,Fundinho
+16.000,4,400,3,2,Uberlândia,Morada da Colina
+12.000,3,270,4,5,Uberlândia,Jardim Botânico
+5.000,3,200,5,3,Uberlândia,Minas Gerais
+8.000,4,400,4,5,Uberlândia,Cidade Jardim
+3.000,3,1100,2,1,Uberlândia,Bosque dos Buritis
+800,2,41,0,1,Uberlândia,Osvaldo Rezende
+1.800,1,70,1,2,Uberlândia,Patrimônio
+2.200,1,60,1,1,Uberlândia,Morada da Colina
+15.000,4,350,3,5,Uberlândia,Nova Uberlândia
+5.000,3,225,2,3,Uberlândia,Cazeca
+3.800,3,150,4,2,Uberlândia,Bosque dos Buritis
+1.100,1,45,1,1,Uberlândia,Martins
+2.800,3,150,2,2,Uberlândia,Jardim das Palmeiras
+1.000,2,50,1,1,Uberlândia,Planalto
+7.000,4,380,4,4,Uberlândia,Lídice
+9.700,3,347,4,4,Uberlândia,Jardim Karaíba
+6.500,3,275,3,5,Uberlândia,Alto Umuarama
+15.000,4,408,4,5,Uberlândia,Morada da Colina
+7.000,3,255,0,3,Uberlândia,Tabajaras
+8.500,4,357,4,5,Uberlândia,Vigilato Pereira
+9.300,3,200,2,4,Uberlândia,Jardim Botânico
+8.000,4,253,4,5,Uberlândia,Jardim Colina
+6.000,3,220,4,4,Uberlândia,Cidade Jardim
+10.000,5,572,5,5,Uberlândia,Tocantins
+4.300,2,160,1,2,Uberlândia,Segismundo Pereira
+25.000,5,706,3,5,Uberlândia,Jardim Sul
+10.000,4,150,2,5,Uberlândia,Morada da Colina
+1.000,4,150,1,1,Uberlândia,Jaraguá
+9.500,3,223,4,5,Uberlândia,Jardim Botânico
+4.800,4,180,2,5,Uberlândia,Jardim Karaíba
+15.000,3,400,2,2,Uberlândia,Morada da Colina
+6.500,3,300,4,3,Uberlândia,Presidente Roosevelt
+8.000,4,450,5,3,Uberlândia,Centro
+3.500,1,105,0,2,Uberlândia,Fundinho
+15.000,4,231,2,5,Uberlândia,Granja Marileusa
+7.000,4,238,2,3,Uberlândia,Granada
+12.000,4,500,5,3,Uberlândia,Cidade Jardim
+12.000,4,338,3,1,Uberlândia,Jardim Botânico
+3.800,3,202,2,2,Uberlândia,Jardim Karaíba
+3.500,3,200,1,1,Uberlândia,Bom Jesus
+13.000,3,600,4,4,Uberlândia,Jardim Patrícia
+3.000,3,140,3,2,Uberlândia,Santa Mônica
+13.000,3,250,5,5,Uberlândia,Nova Uberlândia
+8.900,4,311,3,5,Uberlândia,Centro
+3.500,3,297,2,4,Uberlândia,Centro
+13.000,4,210,5,4,Uberlândia,Jardim Karaíba
+4.800,4,180,2,5,Uberlândia,Jardim Karaíba
+12.000,4,300,2,3,Uberlândia,Nova Uberlândia
+8.900,3,240,3,5,Uberlândia,Granja Marileusa
+8.900,3,240,3,5,Uberlândia,Granja Marileusa
+5.000,3,430,0,4,Uberlândia,Centro
+11.000,3,345,3,5,Uberlândia,Panorama
+5.000,3,210,2,2,Uberlândia,Centro
+12.000,3,240,3,4,Uberlândia,Jardim Botânico
+15.000,4,556,3,5,Uberlândia,Morada da Colina
+5.000,3,240,5,3,Uberlândia,Jardim Colina
+4.500,3,240,5,3,Uberlândia,Jardim Colina
+6.000,1,120,0,3,Uberlândia,Centro
+2.700,3,160,3,3,Uberlândia,Brasil
+3.800,3,110,2,2,Uberlândia,Bosque dos Buritis
+6.000,3,200,3,2,Uberlândia,Umuarama
+15.000,3,228,0,5,Uberlândia,Jardim Botânico
+5.500,3,300,2,2,Uberlândia,Jardim Karaíba
+12.000,3,240,3,4,Uberlândia,Jardim Botânico
+3.500,3,140,2,1,Uberlândia,Segismundo Pereira
+3.300,3,140,2,2,Uberlândia,Santa Mônica
+13.000,3,240,3,2,Uberlândia,Jardim Botânico
+9.500,4,350,0,5,Uberlândia,Jardim Inconfidência
+12.000,3,208,2,4,Uberlândia,Jardim Botânico
+5.800,3,400,3,4,Uberlândia,Vigilato Pereira
+4.400,3,147,4,2,Uberlândia,Alto Umuarama
+7.000,3,230,5,2,Uberlândia,Tibery
+12.000,5,400,5,4,Uberlândia,Cidade Jardim
+5.500,1,225,0,3,Uberlândia,Osvaldo Rezende
+10.500,1,334,2,2,Uberlândia,Fundinho
+20.000,1,529,1,5,Uberlândia,Lídice
+3.500,4,480,2,1,Uberlândia,Nossa Senhora Aparecida
+7.000,4,378,1,1,Uberlândia,Lídice
+11.000,4,345,4,2,Uberlândia,Morada da Colina
+12.000,4,495,4,5,Uberlândia,Jardim Karaíba
+2.320,3,190,2,2,Uberlândia,Jardim Holanda
+15.500,4,390,4,5,Uberlândia,Morada da Colina
+800,3,80,1,1,Uberlândia,Osvaldo Rezende
+15.000,4,540,2,5,Uberlândia,Tocantins
+13.000,4,350,3,5,Uberlândia,Nova Uberlândia
+2.500,2,90,2,2,Uberlândia,Morada da Colina
+15.000,4,350,4,5,Uberlândia,Nova Uberlândia
+13.500,3,450,4,5,Uberlândia,Morada da Colina
+18.000,1,2200,1,1,Uberlândia,Distrito Industrial
+12.000,4,240,2,4,Uberlândia,Nova Uberlândia
+3.800,4,280,4,5,Uberlândia,Jardim Inconfidência
+10.000,4,10,4,2,Uberlândia,Nova Uberlândia
+15.000,4,390,5,5,Uberlândia,Nova Uberlândia
+3.800,4,300,3,3,Uberlândia,Brasil
+4.500,3,220,2,2,Uberlândia,Lídice
+19.000,5,600,5,5,Uberlândia,Nova Uberlândia
+3.600,3,270,3,3,Uberlândia,Vigilato Pereira
+40.000,4,451,5,5,Uberlândia,Jardim Karaíba
+3.200,5,210,4,2,Uberlândia,Santa Mônica
+15.000,5,5000,5,5,Uberlândia,Morada do Sol
+12.000,5,380,4,5,Uberlândia,Aclimação
+5.000,4,260,4,3,Uberlândia,Fundinho
+17.000,4,700,5,1,Uberlândia,Morada do Sol
+17.000,4,700,5,5,Uberlândia,Tocantins
+4.500,3,230,3,1,Uberlândia,Segismundo Pereira
+15.000,5,560,4,5,Uberlândia,Tocantins
+3.300,4,120,2,3,Uberlândia,Martins
+1.000,2,60,1,1,Uberlândia,Martins
+1.000,2,60,1,1,Uberlândia,Martins
+15.000,4,540,2,5,Uberlândia,Tocantins
+680,2,40,1,1,Uberlândia,Custódio Pereira
+1.350,3,93,0,1,Uberlândia,Centro
+12.000,4,396,4,3,Uberlândia,Cidade Jardim
+9.700,3,285,5,5,Uberlândia,Morada da Colina
+8.500,3,320,4,3,Uberlândia,Cidade Jardim
+3.300,3,250,2,1,Uberlândia,Santa Luzia
+6.500,3,252,2,3,Uberlândia,Tabajaras
+4.800,4,220,2,3,Uberlândia,Jardim Inconfidência
+25.000,5,704,3,5,Uberlândia,Jardim Sul
+5.000,4,180,2,5,Uberlândia,Tubalina
+9.700,5,281,2,5,Uberlândia,Jardim Botânico
+7.000,3,180,3,5,Uberlândia,Osvaldo Rezende
+15.000,4,500,4,3,Uberlândia,Cidade Jardim
+6.200,3,243,4,2,Uberlândia,Patrimônio
+20.000,4,950,0,4,Uberlândia,Morada da Colina
+4.000,3,200,5,3,Uberlândia,Tubalina
+20.000,4,750,3,5,Uberlândia,Morada da Colina
+3.800,3,186,2,1,Uberlândia,Tubalina
+3.600,3,223,2,2,Uberlândia,Vigilato Pereira
+14.000,4,250,3,5,Uberlândia,Nova Uberlândia
+550,2,36,0,1,Uberlândia,Custódio Pereira
+4.500,3,200,4,2,Uberlândia,Brasil
+18.000,3,554,4,5,Uberlândia,Jardim Karaíba
+8.000,3,260,4,3,Uberlândia,Jardim Colina
+10.000,4,328,4,5,Uberlândia,Aclimação
+3.000,4,150,5,2,Uberlândia,Lídice
+6.600,3,170,3,3,Uberlândia,Bosque dos Buritis
+2.400,3,236,2,3,Uberlândia,Brasil
+5.000,4,260,4,4,Uberlândia,Fundinho
+12.000,4,240,2,5,Uberlândia,Nova Uberlândia
+12.000,4,240,2,5,Uberlândia,Nova Uberlândia
+1.000,4,300,5,3,Uberlândia,Presidente Roosevelt
+18.000,5,379,4,5,Uberlândia,Martins
+850,2,45,0,1,Uberlândia,Martins
+2.100,3,120,0,1,Uberlândia,Centro
+4.500,3,286,4,3,Uberlândia,Brasil
+6.000,3,326,2,5,Uberlândia,Brasil
+15.000,4,700,4,5,Uberlândia,Jardim Karaíba
+4.500,4,230,4,3,Uberlândia,Brasil
+4.920,3,124,2,3,Uberlândia,Aclimação
+5.500,5,360,4,5,Uberlândia,Tabajaras
+8.500,5,385,4,5,Uberlândia,Vigilato Pereira
+11.000,4,476,5,5,Uberlândia,Morada da Colina
+9.000,4,500,4,5,Uberlândia,Laranjeiras
+4.400,4,300,2,2,Uberlândia,Segismundo Pereira
+25.000,5,462,4,5,Uberlândia,Morada da Colina
+6.100,5,331,4,5,Uberlândia,Custódio Pereira
+6.000,3,200,3,2,Uberlândia,Centro
+9.800,5,480,5,5,Uberlândia,Cidade Jardim
+3.500,4,220,3,3,Uberlândia,Lídice
+20.000,4,397,5,5,Uberlândia,Morada da Colina
+7.500,5,385,5,4,Uberlândia,Presidente Roosevelt
+4.500,3,250,2,4,Uberlândia,Nossa Senhora Aparecida
+8.500,5,404,2,5,Uberlândia,Vigilato Pereira
+550,2,54,0,1,Uberlândia,Chácaras Tubalina e Quartel
+900,1,37,1,1,Uberlândia,Bom Jesus
+950,2,80,0,1,Uberlândia,Martins
+15.000,3,627,4,5,Uberlândia,Cidade Jardim
+3.200,3,170,1,2,Uberlândia,Brasil
+1.300,3,90,1,2,Uberlândia,Presidente Roosevelt
+7.500,4,413,0,3,Uberlândia,Jardim Inconfidência
+3.300,3,120,0,2,Uberlândia,Daniel Fonseca
+3.500,3,98,1,1,Uberlândia,Nossa Senhora Aparecida
+5.500,4,250,2,3,Uberlândia,Cidade Jardim
+1.200,1,40,0,1,Uberlândia,Centro
+6.000,3,250,2,3,Uberlândia,Vigilato Pereira
+6.500,4,205,2,3,Uberlândia,Nossa Senhora Aparecida
+2.900,3,200,3,2,Uberlândia,Lídice
+15.000,3,450,5,3,Uberlândia,Cidade Jardim
+3.600,5,289,5,4,Uberlândia,Saraiva
+4.000,3,308,1,2,Uberlândia,Martins
+4.800,3,305,5,3,Uberlândia,Lídice
+750,1,35,0,1,Uberlândia,Martins
+4.500,4,280,4,2,Uberlândia,Santa Mônica
+11.000,4,438,4,5,Uberlândia,Jardim Karaíba
+6.000,4,474,4,5,Uberlândia,Lídice
+2.500,1,102,0,1,Uberlândia,Tocantins
+4.000,4,210,1,1,Uberlândia,Centro
+4.000,3,200,2,2,Uberlândia,Tabajaras
+3.000,4,120,1,2,Uberlândia,Martins
+25.000,4,425,3,5,Uberlândia,Morada da Colina
+3.500,3,206,2,2,Uberlândia,Martins
+8.000,4,300,2,5,Uberlândia,Fundinho
+8.000,4,425,3,5,Uberlândia,Vigilato Pereira
+9.000,5,261,2,2,Uberlândia,Santa Mônica
+4.500,4,295,4,3,Uberlândia,Brasil
+4.500,3,220,1,3,Uberlândia,Centro
+3.300,3,200,1,3,Uberlândia,Nossa Senhora Aparecida
+7.500,5,520,2,3,Uberlândia,Umuarama
+3.200,4,220,2,3,Uberlândia,Nossa Senhora Aparecida
+1.500,2,120,1,2,Uberlândia,Osvaldo Rezende
+650,2,40,1,1,Uberlândia,Custódio Pereira
+1.360,3,100,2,1,Uberlândia,Patrimônio
+4.500,4,221,0,2,Uberlândia,Centro
+8.900,3,320,3,2,Uberlândia,Brasil
+1.500,2,103,2,1,Uberlândia,Tibery
+700,2,50,0,1,Uberlândia,Residencial Nosso Lar
+900,3,80,0,1,Uberlândia,Martins
+15.000,3,462,3,5,Uberlândia,Morada da Colina
+5.010,4,270,2,3,Uberlândia,Nossa Senhora Aparecida
+7.500,5,385,5,3,Uberlândia,Presidente Roosevelt
+6.000,4,200,2,2,Uberlândia,Lídice
+17.000,4,315,2,5,Uberlândia,Jardim das Palmeiras
+7.500,5,385,5,3,Uberlândia,Presidente Roosevelt
+8.000,4,380,4,5,Uberlândia,Lídice
+6.000,4,487,2,4,Uberlândia,Fundinho
+3.100,3,190,2,2,Uberlândia,Santa Luzia
+16.000,4,450,2,5,Uberlândia,Nova Uberlândia
+9.000,4,350,4,3,Uberlândia,Nova Uberlândia
+4.000,5,230,3,3,Uberlândia,Nossa Senhora Aparecida
+2.000,3,220,1,2,Uberlândia,Jardim Canaã
+4.500,5,125,2,3,Uberlândia,Nossa Senhora Aparecida
+15.000,1,600,5,5,Uberlândia,Centro
+5.500,3,380,3,5,Uberlândia,Cidade Jardim
+7.000,3,154,4,2,Uberlândia,Santa Mônica
+4.200,5,180,4,4,Uberlândia,Segismundo Pereira
+3.800,5,300,4,1,Uberlândia,Brasil
+999,2,220,3,3,Uberlândia,Jardim Inconfidência
+7.500,5,600,5,1,Uberlândia,Umuarama
+3.300,4,230,3,3,Uberlândia,Santa Luzia
+15.000,5,380,4,5,Uberlândia,Martins
+999,2,280,3,3,Uberlândia,Jardim Inconfidência
+16.000,3,184,2,5,Uberlândia,Jardim Karaíba
+12.000,4,320,4,5,Uberlândia,Nova Uberlândia
+7.000,3,287,2,1,Uberlândia,Nossa Senhora Aparecida
+10.000,4,386,3,5,Uberlândia,Lídice
+9.500,3,294,4,5,Uberlândia,Morada da Colina
+2.800,3,105,1,1,Uberlândia,Osvaldo Rezende
+4.400,3,250,3,3,Uberlândia,Cidade Jardim
+12.000,4,360,5,5,Uberlândia,Granja Marileusa
+14.000,4,500,4,5,Uberlândia,Morada da Colina
+4.000,3,180,4,2,Uberlândia,Cidade Jardim
+3.700,5,210,5,5,Uberlândia,Saraiva
+5.000,5,250,0,1,Uberlândia,Nossa Senhora Aparecida
+5.500,5,480,2,5,Uberlândia,Santa Mônica
+15.000,4,410,5,5,Uberlândia,Nova Uberlândia
+10.000,3,520,4,4,Uberlândia,Patrimônio
+2.950,3,170,2,1,Uberlândia,Morada da Colina
+1.200,3,115,1,2,Uberlândia,Osvaldo Rezende
+9.500,3,294,4,5,Uberlândia,Morada da Colina
+13.000,4,351,3,5,Uberlândia,Nova Uberlândia
+16.000,3,200,2,4,Uberlândia,Jardim Karaíba
+5.000,5,300,0,5,Uberlândia,Nossa Senhora Aparecida
+7.500,5,650,5,5,Uberlândia,Brasil
+5.000,4,220,4,2,Uberlândia,Osvaldo Rezende
+900,2,30,0,1,Uberlândia,Osvaldo Rezende
+7.500,5,480,2,5,Uberlândia,Santa Mônica
+11.000,4,438,4,5,Uberlândia,Jardim Karaíba
+9.000,3,400,2,5,Uberlândia,Nossa Senhora Aparecida
+15.000,4,380,3,4,Uberlândia,Morada da Colina
+10.000,5,261,3,3,Uberlândia,Segismundo Pereira
+12.000,4,322,4,5,Uberlândia,Nova Uberlândia
+3.500,3,175,2,2,Uberlândia,Jardim Patrícia
+5.500,3,180,3,5,Uberlândia,Lídice
+1.300,3,100,0,1,Uberlândia,Fundinho
+12.000,4,320,3,5,Uberlândia,Nova Uberlândia
+7.000,3,325,3,3,Uberlândia,Lídice
+12.000,4,320,3,5,Uberlândia,Nova Uberlândia
+14.000,4,450,4,5,Uberlândia,Morada da Colina
+10.000,4,312,4,3,Uberlândia,Gávea
+5.300,3,277,4,5,Uberlândia,Brasil
+4.600,3,200,2,3,Uberlândia,Nossa Senhora Aparecida
+16.000,4,450,2,5,Uberlândia,Nova Uberlândia
+15.000,5,800,5,5,Uberlândia,Lídice
+4.800,5,339,2,5,Uberlândia,Centro
+13.000,3,250,5,5,Uberlândia,Nova Uberlândia
+8.000,3,250,3,2,Uberlândia,Centro
+4.500,4,300,1,2,Uberlândia,Centro
+15.000,4,337,2,5,Uberlândia,Nova Uberlândia
+1.500,3,90,2,1,Uberlândia,Nossa Senhora Aparecida
+11.000,4,330,2,5,Uberlândia,Vigilato Pereira
+4.000,5,323,2,4,Uberlândia,Martins
+12.000,4,386,3,3,Uberlândia,Lídice
+11.000,4,330,2,5,Uberlândia,Vigilato Pereira
+9.000,3,400,2,5,Uberlândia,Nossa Senhora Aparecida
+20.000,3,530,5,2,Uberlândia,Lídice
+4.500,3,409,3,3,Uberlândia,Jardim Patrícia
+11.000,4,430,4,5,Uberlândia,Jardim Karaíba
+3.700,4,300,3,4,Uberlândia,Nossa Senhora Aparecida
+4.000,4,320,5,4,Uberlândia,Brasil
+7.000,5,380,4,5,Uberlândia,Lídice
+3.000,4,200,2,2,Uberlândia,Lídice
+3.000,5,250,2,3,Uberlândia,Martins
+10.000,4,595,4,5,Uberlândia,Cidade Jardim
+4.500,3,235,2,4,Uberlândia,Vigilato Pereira
+5.500,3,350,5,3,Uberlândia,Umuarama
+4.000,3,124,2,3,Uberlândia,Aclimação
+7.500,1,300,5,4,Uberlândia,Centro
+20.000,1,400,4,4,Uberlândia,Fundinho
+4.200,1,200,2,2,Uberlândia,Segismundo Pereira
+4.000,5,220,2,4,Uberlândia,Umuarama
+9.500,5,480,2,5,Uberlândia,Cidade Jardim
+7.000,1,320,2,2,Uberlândia,Martins
+15.000,1,156,1,3,Uberlândia,Lídice
+5.500,3,238,3,2,Uberlândia,Cidade Jardim
+6.000,5,500,5,4,Uberlândia,Jardim Karaíba
+9.000,3,285,5,5,Uberlândia,Morada da Colina
+12.000,4,330,4,5,Uberlândia,Saraiva
+11.000,4,438,4,5,Uberlândia,Jardim Karaíba
+12.000,4,360,5,5,Uberlândia,Granja Marileusa
+12.000,4,360,5,5,Uberlândia,Granja Marileusa
+15.000,4,337,2,5,Uberlândia,Nova Uberlândia
+11.500,4,500,5,5,Uberlândia,Morada da Colina
+12.000,4,340,2,5,Uberlândia,Nova Uberlândia
+10.000,5,300,3,3,Uberlândia,Centro
+9.500,5,480,2,5,Uberlândia,Cidade Jardim
+12.000,4,360,2,5,Uberlândia,Nova Uberlândia
+5.000,4,283,1,2,Uberlândia,Centro
+2.600,4,174,2,3,Uberlândia,Tabajaras
+7.000,4,428,4,4,Uberlândia,Tabajaras
+12.000,4,397,5,4,Uberlândia,Lídice
+3.500,3,175,2,2,Uberlândia,Jardim Patrícia
+10.000,5,1500,5,5,Uberlândia,Tocantins
+9.800,5,500,5,5,Uberlândia,Cidade Jardim
+8.000,3,300,5,4,Uberlândia,Morada da Colina
+10.000,4,310,4,3,Uberlândia,Gávea
+8.000,4,300,5,4,Uberlândia,Tabajaras
+5.010,3,370,4,3,Uberlândia,Santa Luzia
+6.000,5,205,2,3,Uberlândia,Bom Jesus
